@@ -1,12 +1,12 @@
 {
-  "name": "NYPL-Emoji-Bot",
+  "name": "Emojimuseet",
   "version": "0.0.0",
-  "description": "NYPL Emoji Bot",
-  "author": "Lauren Lampasone",
+  "description": "Emojimuseet",
+  "author": "Lauren Lampasone, Aron Ambrosiani",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lolibrarian/NYPL-Emoji-Bot"
+    "url": "https://github.com/Ambrosiani/Emojimuseet"
   },
   "dependencies": {
     "twit": "1.x",
@@ -14,9 +14,9 @@
     "thenby": "^1.2.1"
   },
   "bugs": {
-    "url": "https://github.com/lolibrarian/NYPL-Emoji-Bot/issues"
+    "url": "https://github.com/Ambrosiani/Emojimuseet/issues"
   },
-  "homepage": "https://github.com/lolibrarian/NYPL-Emoji-Bot",
+  "homepage": "https://github.com/Ambrosiani/Emojimuseet",
   "main": "src/status.js",
   "devDependencies": {
     "eslint": "^3.3.0",
