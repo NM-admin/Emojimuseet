@@ -1153,7 +1153,10 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
     ],
      "❣": [],
-    "❤️": [],
+    "❤️": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView",
+        "https://digitaltmuseum.se/011024606000/spel"
+    ],
     "💠": [],
     "💡": [],
     "💢": [],
