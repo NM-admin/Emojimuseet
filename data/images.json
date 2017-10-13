@@ -1001,7 +1001,9 @@
     "👁": [],
     "👁‍🗨": [],
     "👂": [],
-    "👃": [],
+    "👃": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=40790&viewType=detailView"
+    ],
     "👄": [],
     "👅": [],
     "👆": [],
@@ -1052,7 +1054,9 @@
     "👨‍👨‍👧": [],
     "👨‍👨‍👧‍👦": [],
     "👨‍👨‍👧‍👧": [],
-    "👨‍👩‍👦": [],
+    "👨‍👩‍👦": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=32070&viewType=detailView"
+                ],
     "👨‍👩‍👦‍👦": [],
     "👨‍👩‍👧": [],
     "👨‍👩‍👧‍👦": [],
@@ -1062,7 +1066,9 @@
     ],
     "👩‍❤️‍👩": [],
     "👩‍❤️‍💋‍👩": [],
-    "👩‍👩‍👦": [],
+    "👩‍👩‍👦": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=176313&viewType=detailView"
+                ],
     "👩‍👩‍👦‍👦": [],
     "👩‍👩‍👧": [],
     "👩‍👩‍👧‍👦": [],
