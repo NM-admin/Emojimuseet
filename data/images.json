@@ -422,7 +422,9 @@
     "🇰🇮": [],
     "🇰🇲": [],
     "🇰🇳": [],
-    "🇰🇵": [],
+    "🇰🇵": [
+        "https://digitaltmuseum.se/011014660689/nordkorea"
+    ],
     "🇰🇷": [
         "https://digitaltmuseum.se/021027124362/ryggsack"
     ],
@@ -1299,8 +1301,12 @@
     ],
     "📯": [],
     "📰": [],
-    "📱": [],
-    "📲": [],
+    "📱": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128710&viewType=detailView"
+    ],
+    "📲": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128710&viewType=detailView"
+    ],
     "📳": [],
     "📴": [],
     "📵": [],
@@ -1528,7 +1534,9 @@
     "🙁": [],
     "🙂": [],
     "🙃": [],
-    "🙄": [],
+    "🙄": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19076&viewType=detailView"
+    ],
     "🙅": [],
     "🙆": [],
     "🙇": [],
