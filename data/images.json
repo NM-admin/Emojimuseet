@@ -44,7 +44,8 @@
     "♂": [],
     "♀": [],
     "👩‍🏭": [],
-    "👨‍🏭": [],
+    "👨‍🏭": [
+        "https://digitaltmuseum.se/021016861957/personal-vid-gamla-mekaniska-verkstaden-vid-forsbacka-jarnverk-omkring"],
     "⚒️": [],
     "🥐": [
         "https://digitaltmuseum.se/021016139224/orebro-kemisk-tekniska-fabriken-en-kvinna-som-bakar-gifflar-ingenjor-hakan"
@@ -220,17 +221,25 @@
         "http://collections.smvk.se/carlotta-em/web/object/3627490"
     ],
     "⛷": [],
-    "⛸": [],
+    "⛸": [
+        "https://digitaltmuseum.se/021026349209/skridsko",
+        "https://digitaltmuseum.se/011014489286/curlingspel-vid-bado"
+    ],
     "⛹": [],
     "⛺️": [],
     "⛽️": [],
     "✂️": [],
     "✅": [],
     "✈️": [],
-    "✉️": [],
+    "✉️": [
+        "https://digitaltmuseum.se/011024650851/brev"
+    ],
     "✊": [],
     "✋": [],
     "✌️": [],
+    "🥌": [
+        "https://digitaltmuseum.se/011014489286/curlingspel-vid-bado"
+    ],
     "✍": [],
     "✏️": [],
     "✒️": [],
@@ -414,7 +423,9 @@
     "🇰🇲": [],
     "🇰🇳": [],
     "🇰🇵": [],
-    "🇰🇷": [],
+    "🇰🇷": [
+        "https://digitaltmuseum.se/021027124362/ryggsack"
+    ],
     "🇰🇼": [],
     "🇰🇾": [],
     "🇰🇿": [],
@@ -743,7 +754,9 @@
     "🎏": [],
     "🎐": [],
     "🎑": [],
-    "🎒": [],
+    "🎒": [
+        "https://digitaltmuseum.se/021027124362/ryggsack"
+    ],
     "🎓": [],
     "🎖": [
         "https://digitaltmuseum.se/021016880113/otto-malmborg-juni-1917"
@@ -753,21 +766,27 @@
     "🎚": [],
     "🎛": [],
     "🎞": [],
-    "🎟": [],
+    "🎟": [
+        "https://digitaltmuseum.se/011024769359/biljett"
+    ],
     "🎠": [
         "https://digitaltmuseum.se/011014440369/karusell-pa-saltkallans-marknad-oktober-1920"
     ],
     "🎡": [
         "https://digitaltmuseum.se/011014982597/stockholmsutstallningen-1930-pariserhjul-vy"
     ],
-    "🎢": [],
+    "🎢": [
+        "https://digitaltmuseum.se/021016315204/luftskepp-typ-parseval-p-n-29-med-motor-siemens-halske-80-hk-luftskeppet"
+    ],
     "🎣": [],
     "🎤": [],
     "🎥": [],
     "🎦": [],
     "🎧": [],
     "🎨": [],
-    "🎩": [],
+    "🎩": [
+        "https://digitaltmuseum.se/011014489286/curlingspel-vid-bado"
+    ],
     "🎪": [
         "https://digitaltmuseum.se/021016760044/furuviksparken-invigdes-1936-cirkus-folkdanslaget-furuviks-ungdomslag-och",
         "https://digitaltmuseum.se/021016955362/cirkusbjorn-balanserar-pa-boll-cirkus-scott-besoker-sabbatsbergs-sjukhu"
@@ -836,18 +855,29 @@
     "🏡": [],
     "🏢": [],
     "🏣": [],
-    "🏤": [],
+    "🏤": [
+        "https://digitaltmuseum.se/021017206944/1m16-b145067-131",
+        "https://digitaltmuseum.se/011014670660/poststationen-i-ljusne-borjan-av-1870-talet"
+    ],
     "🏥": [
         "https://digitaltmuseum.se/021016955362/cirkusbjorn-balanserar-pa-boll-cirkus-scott-besoker-sabbatsbergs-sjukhu"
     ],
-    "🏦": [],
-    "🏧": [],
+    "🏦": [
+        "https://digitaltmuseum.se/021016737220/gefle-stads-sparbank-startades-1824-for-att-forvalta-mindre-bemedlade-arbetares"
+    ],
+    "🏧": [
+        "https://digitaltmuseum.se/011014895360/sparbanken-vasternorrland-minutenautomat",
+        "https://digitaltmuseum.se/021026305347/bankautomat-med-kassaskap",
+        "https://digitaltmuseum.se/021026361963/relakort-4"
+    ],
     "🏨": [],
     "🏩": [],
     "🏪": [],
     "🏫": [],
     "🏬": [],
-    "🏭": [],
+    "🏭": [
+        "https://digitaltmuseum.se/021016861957/personal-vid-gamla-mekaniska-verkstaden-vid-forsbacka-jarnverk-omkring"
+    ],
     "🏮": [],
     "🏯": [],
     "🏰": [],
@@ -1246,11 +1276,21 @@
     "📧": [],
     "📨": [],
     "📩": [],
-    "📪": [],
-    "📫": [],
-    "📬": [],
-    "📭": [],
-    "📮": [],
+    "📪": [
+        "https://digitaltmuseum.se/011024604422/brevlada"
+    ],
+    "📫": [
+        "https://digitaltmuseum.se/011024604422/brevlada"
+    ],
+    "📬": [
+        "https://digitaltmuseum.se/011024604422/brevlada"
+    ],
+    "📭": [
+        "https://digitaltmuseum.se/011024604422/brevlada"
+    ],
+    "📮": [
+        "https://digitaltmuseum.se/011024604422/brevlada"
+    ],
     "📯": [],
     "📰": [],
     "📱": [],
