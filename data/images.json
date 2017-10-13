@@ -314,7 +314,9 @@
     "🇦🇽": [],
     "🇦🇿": [],
     "🇧🇦": [],
-    "🇧🇧": [],
+    "🇧🇧": [
+        "https://digitaltmuseum.se/011024288068/sockerror"
+    ],
     "🇧🇩": [],
     "🇧🇪": [],
     "🇧🇫": [],
@@ -1014,7 +1016,8 @@
         "https://digitaltmuseum.se/011025186384/forebild-for-teckning-gris"
     ],
     "🐸": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131252&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131252&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22321&viewType=detailView"
     ],
     "🐹": [],
     "🐺": [
@@ -1124,17 +1127,44 @@
     "👵": [
         "https://digitaltmuseum.se/011013849545/eldslagning-bullermor-stina-persdotter-slar-gnistor-med-ett-ovalformigt"
     ],
-    "👶": [],
+    "👶": [
+        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137836&viewType=detailView"
+    ],
     "👷": [],
     "👸": [],
-    "👹": [],
-    "👺": [],
-    "👻": [],
-    "👼": [],
-    "👽": [],
+    "🧔": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=36495&viewType=detailView"
+    ],
+    "🤱": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18474&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19200&viewType=detailView"
+    ],
+    "👹": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=48709&viewType=detailView"
+    ],
+    "👺": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=48709&viewType=detailView"
+    ],
+    "👻": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22432&viewType=detailView"
+    ],
+    "👼": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17319&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=30219&viewType=detailView"
+    ],
+    "👽": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22284&viewType=detailView"
+    ],
     "👾": [],
     "👿": [],
-    "💀": [],
+    "💀": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23416&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=83225&viewType=detailView"
+    ],
+    "☠️": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23416&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=83225&viewType=detailView"
+    ],
     "💁": [],
     "💂": [],
     "💃": [],
@@ -1466,7 +1496,10 @@
     "🗽": [],
     "🗾": [],
     "🗿": [],
-    "😀": [],
+    "😀": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18491&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=122066&viewType=detailView"
+    ],
     "😁": [],
     "😂": [],
     "😃": [],
@@ -1475,13 +1508,17 @@
     "😆": [],
     "😇": [],
     "😈": [],
-    "😉": [],
+    "😉": [
+        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=21152&viewType=detailView"
+    ],
     "😊": [],
     "😋": [],
     "😌": [],
     "😍": [],
     "😎": [],
-    "😏": [],
+    "😏": [
+        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177418&viewType=detailView"
+    ],
     "😐": [],
     "😑": [],
     "😒": [],
@@ -1503,7 +1540,9 @@
     "😢": [],
     "😣": [],
     "😤": [],
-    "😥": [],
+    "😥": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17323&viewType=detailView"
+    ],
     "😦": [],
     "😧": [],
     "😨": [],
@@ -1693,10 +1732,14 @@
     "🦄": [],
     "🧀": [],
     "∞": [],
-    "🤡": [],
+    "🤡": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=148079&viewType=detailView"
+    ],
     "🥑": [],
     "🦑": [],
-    "🤠": [],
+    "🤠": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=151326&viewType=detailView"
+    ],
     "👮🏻‍♀️": [],
     "🤧": [],
     "🕺": [],
