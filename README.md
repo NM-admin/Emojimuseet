@@ -1,5 +1,9 @@
 # Emojimuseet
 
+<a href='https://travis-ci.org/Ambrosiani/Emojimuseet'>
+  <img src='https://api.travis-ci.org/Ambrosiani/Emojimuseet.png' alt='Travis CI build status' />
+</a>
+
 The source code for [Emojimuseet](https://twitter.com/Emojimuseet), a local Swedish version of [NYPL Emoji Bot](https://github.com/lolibrarian/NYPL-Emoji-Bot)
 
 The emojis reside in [images.json](https://github.com/Ambrosiani/Emojimuseet/blob/master/data/images.json). Feel free to contribute!
