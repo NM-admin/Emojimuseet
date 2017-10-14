@@ -39,13 +39,21 @@
         "http://collections.smvk.se/carlotta-vkm/web/object/2531023",
         "http://collections.smvk.se/carlotta-em/web/object/2683391"
     ],
-    "🤸": [],
+    "🤸": [
+        "https://stockholmskallan.stockholm.se/post/27242"
+    ],
+    "🤸‍♀️": [
+        "https://stockholmskallan.stockholm.se/post/27242"
+    ],
     "🥝": [],
     "♂": [],
     "♀": [],
     "👩‍🏭": [],
     "👨‍🏭": [
-        "https://digitaltmuseum.se/021016861957/personal-vid-gamla-mekaniska-verkstaden-vid-forsbacka-jarnverk-omkring"],
+        "https://digitaltmuseum.se/021016861957/personal-vid-gamla-mekaniska-verkstaden-vid-forsbacka-jarnverk-omkring",
+        "https://stockholmskallan.stockholm.se/post/19198",
+        "https://stockholmskallan.stockholm.se/post/20601"
+    ],
     "⚒️": [],
     "🥐": [
         "https://digitaltmuseum.se/021016139224/orebro-kemisk-tekniska-fabriken-en-kvinna-som-bakar-gifflar-ingenjor-hakan"
@@ -119,7 +127,9 @@
     ],
     "☑️": [],
     "☔️": [],
-    "☕️": [],
+    "☕️": [
+        "https://stockholmskallan.stockholm.se/post/27428"
+    ],
     "☘": [
         "https://digitaltmuseum.se/021027148224/marke"
     ],
@@ -1076,7 +1086,9 @@
     "👟": [],
     "👠": [],
     "👡": [],
-    "👢": [],
+    "👢": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137720&viewType=detailView"
+    ],
     "👣": [],
     "👤": [],
     "👥": [],
