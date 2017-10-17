@@ -26,7 +26,8 @@
     "9️⃣": [],
     "🥃": [],
     "🦇": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=132596&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=132596&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=38172&viewType=detailView"
     ],
     "👩‍🎤": [],
     "👨‍🎤": [],
@@ -535,7 +536,9 @@
     "🇸🇧": [],
     "🇸🇨": [],
     "🇸🇩": [],
-    "🇸🇪": [],
+    "🇸🇪": [
+        "https://digitaltmuseum.se/011024813563/flaska"
+    ],
     "🇸🇬": [],
     "🇸🇭": [],
     "🇸🇮": [],
@@ -785,7 +788,9 @@
     ],
     "🎆": [],
     "🎇": [],
-    "🎈": [],
+    "🎈": [
+        "https://digitaltmuseum.se/021017105127/ballong-svea-uppstigningarna-gjordes-pa-tivoli-i-stockholm"
+    ],
     "🎉": [],
     "🎊": [],
     "🎋": [],
@@ -962,7 +967,11 @@
         "https://digitaltmuseum.se/021046508722/katt-med-fagelunge-i-mun-en-av-fem-djurstudier-i-samma-ram-nm-2223-222",
         "https://digitaltmuseum.se/021046500236/katt-pa-blomsterang"
     ],
-    "🐉": [],
+    "🐉": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=121244&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=181587&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=174257&viewType=detailView"
+    ],
     "🐊": [
         "http://collections.smvk.se/carlotta-em/web/object/1305094"
     ],
@@ -1004,7 +1013,9 @@
     "🐚": [
         "http://collections.smvk.se/carlotta-vkm/web/object/73892"
     ],
-    "🐛": [],
+    "🐛": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=48232&viewType=detailView"
+    ],
     "🐜": [],
     "🐝": [],
     "🐞": [],
@@ -1037,7 +1048,11 @@
     "🐯": [],
     "🐰": [],
     "🐱": [],
-    "🐲": [],
+    "🐲": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=121244&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=181587&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=174257&viewType=detailView"
+    ],
     "🐳": [],
     "🐴": [
         "https://digitaltmuseum.se/011014490320/joel-johansson-salvik-fiskebackskil"
@@ -1056,7 +1071,8 @@
     ],
     "🐸": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131252&viewType=detailView",
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22321&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22321&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=80979&viewType=detailView"
     ],
     "🐹": [],
     "🐺": [
@@ -1104,7 +1120,10 @@
     "👔": [],
     "👕": [],
     "👖": [],
-    "👗": [],
+    "👗": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=15174&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=148038&viewType=detailView"
+    ],
     "👘": [],
     "👙": [],
     "👚": [],
@@ -1161,7 +1180,9 @@
     "🤵": [],
     "👱": [],
     "👲": [],
-    "👳": [],
+    "👳": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177816&viewType=detailView"
+    ],
     "👴": [
         "https://digitaltmuseum.se/021016880113/otto-malmborg-juni-1917"
     ],
@@ -1211,7 +1232,8 @@
     "💂": [],
     "💃": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=24322&viewType=detailView",
-        "https://digitaltmuseum.se/021017285351/gota-pansarlivgarde-p-1-kadettbal-enkoping-uppland-1948"
+        "https://digitaltmuseum.se/021017285351/gota-pansarlivgarde-p-1-kadettbal-enkoping-uppland-1948",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=148038&viewType=detailView"
     ],
     "💄": [],
     "💅": [],
@@ -1806,7 +1828,8 @@
     "🥓": [],
     "🦉": [
         "http://collections.smvk.se/carlotta-em/web/object/3554176",
-        "http://collections.smvk.se/carlotta-mhm/web/object/3919930"
+        "http://collections.smvk.se/carlotta-mhm/web/object/3919930",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=50426&viewType=detailView"
     ],
     "🥀": [],
     "🖤": [],
@@ -1821,7 +1844,9 @@
     "🥄": [
         "http://collections.smvk.se/carlotta-om/web/object/121675"
     ],
-    "🤥": [],
+    "🤥": [
+        "https://digitaltmuseum.se/011024813563/flaska"
+    ],
     "🤤": [],
     "🦊": [
         "http://collections.smvk.se/carlotta-em/web/object/1281768",
@@ -1836,5 +1861,8 @@
     "⚖️": [
         "http://collections.smvk.se/carlotta-vkm/web/object/1300673"
     ],
-    "☭": []
+    "☭": [],
+    "🧐": [
+        "https://digitaltmuseum.se/021016513161/ateljeportratt-av-okand-skadespelare"
+    ]
 }
