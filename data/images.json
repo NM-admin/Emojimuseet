@@ -673,7 +673,10 @@
     "🌷": [],
     "🌸": [],
     "🌹": [],
-    "🌺": [],
+    "🌺": [
+        "https://digitaltmuseum.se/021026481793/frimarke",
+        "https://digitaltmuseum.se/011023734273/tapetbard"
+    ],
     "🌻": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112947&viewType=detailView"
     ],
@@ -1519,7 +1522,9 @@
     "🖍": [],
     "🖐": [],
     "🖕": [],
-    "🖖": [],
+    "🖖": [
+        "https://digitaltmuseum.se/011023811475/docka"
+    ],
     "🖥": [],
     "🖨": [],
     "🖱": [],
