@@ -38,7 +38,8 @@
     "🤦‍♀️": [],
     "🥁": [
         "http://collections.smvk.se/carlotta-vkm/web/object/2531023",
-        "http://collections.smvk.se/carlotta-em/web/object/2683391"
+        "http://collections.smvk.se/carlotta-em/web/object/2683391",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=164075&viewType=detailView"
     ],
     "🤸": [
         "https://stockholmskallan.stockholm.se/post/27242"
@@ -139,7 +140,8 @@
     "☂️": [
         "https://stockholmskallan.stockholm.se/post/11655",
         "https://stockholmskallan.stockholm.se/post/9740",
-        "https://stockholmskallan.stockholm.se/post/19217"
+        "https://stockholmskallan.stockholm.se/post/19217",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=24345&viewType=detailView"
     ],
     "🌧️": [
         "https://stockholmskallan.stockholm.se/post/11655",
@@ -148,7 +150,8 @@
     ],
     "☕️": [
         "https://stockholmskallan.stockholm.se/post/27428",
-        "https://digitaltmuseum.se/011014012988/fika-med-kompisar-i-torbjorn-ehrnvalls-ungkarlslya-vastra-jarnvagsgatan"
+        "https://digitaltmuseum.se/011014012988/fika-med-kompisar-i-torbjorn-ehrnvalls-ungkarlslya-vastra-jarnvagsgatan",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18709&viewType=detailView"
     ],
     "☘": [
         "https://digitaltmuseum.se/021027148224/marke"
@@ -675,7 +678,9 @@
     "🌶": [],
     "🌷": [],
     "🌸": [],
-    "🌹": [],
+    "🌹": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23905&viewType=detailView"
+    ],
     "🌺": [
         "https://digitaltmuseum.se/021026481793/frimarke",
         "https://digitaltmuseum.se/011023734273/tapetbard"
@@ -695,22 +700,36 @@
     "🍅": [],
     "🍆": [],
     "🍇": [
-        "http://collections.smvk.se/carlotta-mhm/web/object/4280905"
+        "http://collections.smvk.se/carlotta-mhm/web/object/4280905",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22320&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17252&viewType=detailView"
     ],
     "🍈": [],
     "🍉": [],
     "🍊": [],
     "🍋": [],
     "🍌": [],
-    "🍍": [],
-    "🍎": [],
-    "🍏": [],
-    "🍐": [],
-    "🍑": [],
+    "🍍": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=15978&viewType=detailView"
+    ],
+    "🍎": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22320&viewType=detailView"
+    ],
+    "🍏": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22320&viewType=detailView"
+    ],
+    "🍐": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18501&viewType=detailView"
+    ],
+    "🍑": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17252&viewType=detailView"
+    ],
     "🍒": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=20384&viewType=detailView"
     ],
-    "🍓": [],
+    "🍓": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23918&viewType=detailView"
+    ],
     "🍔": [],
     "🍕": [],
     "🍖": [],
@@ -749,15 +768,20 @@
     "🍰": [],
     "🍱": [],
     "🍲": [],
-    "🍳": [],
+    "🍳": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=100530&viewType=detailView"
+    ],
     "🍴": [],
     "🍵": [],
     "🍶": [],
     "🍷": [],
-    "🍸": [],
+    "🍸": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18729&viewType=detailView"
+    ],
     "🍹": [],
     "🍺": [
-        "https://digitaltmuseum.se/011023078699/olstop"
+        "https://digitaltmuseum.se/011023078699/olstop",
+        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22275&viewType=detailView"
     ],
     "🥂": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=98834&viewType=detailView"
@@ -767,7 +791,9 @@
         "https://digitaltmuseum.se/021016875971/vanersborg-basar-i-socitetssalongen-olstuga"
     ],
     "🍼": [],
-    "🍽": [],
+    "🍽": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18709&viewType=detailView"
+    ],
     "🍾": [
         "https://digitaltmuseum.se/021016739296/herr-ivar-aberg-fotograferad-pa-hotell-baltic-med-froken-ann-slott-25-september"
     ],
@@ -849,13 +875,26 @@
     ],
     "🎳": [],
     "🎴": [],
-    "🎵": [],
-    "🎶": [],
+    "🎵": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18123&viewType=detailView"
+    ],
+    "🎶": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=51666&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18490&viewType=detailView"
+    ],
     "🎷": [],
     "🎸": [],
     "🎹": [],
-    "🎺": [],
-    "🎻": [],
+    "🎺": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17413&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=95173&viewType=detailView"
+    ],
+    "🎻": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18123&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17413&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177753&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17995&viewType=detailView"
+    ],
     "🎼": [],
     "🎽": [],
     "🎾": [],
@@ -917,7 +956,9 @@
         "https://digitaltmuseum.se/021026361963/relakort-4"
     ],
     "🏨": [],
-    "🏩": [],
+    "🏩": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=67192&viewType=detailView"
+    ],
     "🏪": [],
     "🏫": [],
     "🏬": [],
@@ -947,7 +988,10 @@
     ],
     "🐅": [],
     "🐆": [],
-    "🐇": [],
+    "🐇": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17906&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17800&viewType=detailView"
+    ],
     "🐈": [
         "https://digitaltmuseum.se/011014498448/umfa55076-0385",
         "https://digitaltmuseum.se/021017259115/en-katt-pa-ett-bord-glasplat",
@@ -981,14 +1025,23 @@
     "🐌": [],
     "🐍": [],
     "🐎": [
-        "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=21990&viewType=detailView"
+        "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=21990&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=66771&viewType=detailView"
     ],
     "🐏": [],
-    "🐐": [],
-    "🐑": [],
+    "🐐": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=210212&viewType=detailView"
+    ],
+    "🐑": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=51666&viewType=detailView"
+    ],
+    "🧒": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=51666&viewType=detailView"
+    ],
     "🐒": [
         "https://digitaltmuseum.se/011025185597/apa",
-        "https://digitaltmuseum.se/011025186298/forebild-for-teckning-apa"
+        "https://digitaltmuseum.se/011025186298/forebild-for-teckning-apa",
+        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18410&viewType=detailView"
     ],
     "🐓": [],
     "🐔": [
@@ -1003,15 +1056,24 @@
         "https://digitaltmuseum.se/011025191559/gris",
         "https://digitaltmuseum.se/011025186384/forebild-for-teckning-gris"
     ],
-    "🐗": [],
+    "🐗": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112269&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=162021&viewType=detailView"
+    ],
     "🐘": [
-        "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=39168&viewType=detailView"
+        "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=39168&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112162&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=210192&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=209463&viewType=detailView"
     ],
     "🐙": [
         "http://collections.smvk.se/carlotta-vkm/web/object/57097"
     ],
     "🐚": [
-        "http://collections.smvk.se/carlotta-vkm/web/object/73892"
+        "http://collections.smvk.se/carlotta-vkm/web/object/73892",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19411&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=78091&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23831&viewType=detailView"
     ],
     "🐛": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=48232&viewType=detailView"
@@ -1019,16 +1081,26 @@
     "🐜": [],
     "🐝": [],
     "🐞": [],
-    "🐟": [],
+    "🐟": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17276&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18451&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17732&viewType=detailView"
+    ],
     "🐠": [],
     "🐡": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=178063&viewType=detailView"
+    ],
+    "🦋": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=132641&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177417&viewType=detailView"
     ],
     "🐢": [],
     "🐣": [],
     "🐤": [],
     "🐥": [],
-    "🐦": [],
+    "🐦": [
+        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18410&viewType=detailView"
+    ],
     "🐧": [],
     "🐨": [],
     "🐩": [
@@ -1038,7 +1110,11 @@
         "https://digitaltmuseum.se/021046500574/kamel-med-forare"
     ],
     "🐫": [
-        "https://digitaltmuseum.se/021046500574/kamel-med-forare"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=123779&viewType=detailView"
+    ],
+    "🦒": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=107286&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112275&viewType=detailView"
     ],
     "🐬": [],
     "🐭": [],
@@ -1046,7 +1122,10 @@
         "https://digitaltmuseum.se/021017165971/1m16-a145228-914-1"
     ],
     "🐯": [],
-    "🐰": [],
+    "🐰": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17906&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17800&viewType=detailView"
+    ],
     "🐱": [],
     "🐲": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=121244&viewType=detailView",
@@ -1059,7 +1138,8 @@
     ],
     "🐵": [
         "https://digitaltmuseum.se/011025185597/apa",
-        "https://digitaltmuseum.se/011025186298/forebild-for-teckning-apa"
+        "https://digitaltmuseum.se/011025186298/forebild-for-teckning-apa",
+        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18410&viewType=detailView"
     ],
     "🐶": [
         "https://digitaltmuseum.se/021016322326/hund",
@@ -1113,7 +1193,9 @@
     "👑": [
         "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=36503&viewType=detailView"
     ],
-    "👒": [],
+    "👒": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177754&viewType=detailView"
+    ],
     "👓": [
         "http://collections.smvk.se/carlotta-vkm/web/object/94124"
     ],
@@ -1167,10 +1249,16 @@
     "👩‍👩‍👦": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=176313&viewType=detailView"
                 ],
-    "👩‍👩‍👦‍👦": [],
+    "👩‍👩‍👦‍👦": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=73599&viewType=detailView"
+    ],
     "👩‍👩‍👧": [],
-    "👩‍👩‍👧‍👦": [],
-    "👩‍👩‍👧‍👧": [],
+    "👩‍👩‍👧‍👦": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=73599&viewType=detailView"
+    ],
+    "👩‍👩‍👧‍👧": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=73599&viewType=detailView"
+    ],
     "👫": [],
     "👬": [],
     "👭": [],
@@ -1329,7 +1417,9 @@
     "💫": [],
     "💬": [],
     "💭": [],
-    "💮": [],
+    "💮": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18868&viewType=detailView"
+    ],
     "💯": [],
     "💰": [],
     "💱": [],
@@ -1369,7 +1459,9 @@
     "📓": [],
     "📔": [],
     "📕": [],
-    "📖": [],
+    "📖": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=73599&viewType=detailView"
+    ],
     "📗": [],
     "📘": [],
     "📙": [],
@@ -1471,7 +1563,9 @@
     "🔢": [],
     "🔣": [],
     "🔤": [],
-    "🔥": [],
+    "🔥": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=21673&viewType=detailView"
+    ],
     "🔦": [],
     "🔧": [],
     "🔨": [],
@@ -1534,7 +1628,9 @@
     "🕴": [],
     "🕵": [],
     "🕶": [],
-    "🕷": [],
+    "🕷": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=77458&viewType=detailView"
+    ],
     "🕸": [],
     "🕹": [],
     "🖇": [],
@@ -1578,7 +1674,9 @@
     ],
     "😁": [],
     "😂": [],
-    "😃": [],
+    "😃": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18490&viewType=detailView"
+    ],
     "😄": [],
     "😅": [],
     "😆": [],
@@ -1763,7 +1861,9 @@
     "🚹": [],
     "🚺": [],
     "🚻": [],
-    "🚼": [],
+    "🚼": [
+        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137836&viewType=detailView"
+    ],
     "🚽": [],
     "🚾": [],
     "🚿": [],
@@ -1807,7 +1907,13 @@
     "🦁": [],
     "🦂": [],
     "🦃": [],
-    "🦄": [],
+    "🦄": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=143211&viewType=detailView"
+    ],
+    "🦓": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=47721&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=159038&viewType=detailView"
+    ],
     "🧀": [],
     "∞": [],
     "🤡": [
