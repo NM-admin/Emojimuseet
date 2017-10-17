@@ -85,7 +85,8 @@
     "↪️": [],
     "⌚️": [],
     "⌛️": [
-        "https://digitaltmuseum.se/021026254502/timglas"
+        "https://digitaltmuseum.se/021026254502/timglas",
+        "https://stockholmskallan.stockholm.se/post/10163"
     ],
     "⌨": [],
     "⏩": [],
@@ -102,7 +103,10 @@
         "https://digitaltmuseum.se/011014313552/enligt-notering-kvartford-och-mattaffar-i-nya-fastigheten-kilbacksgatan"
     ],
     "⏲": [],
-    "⏳": [],
+    "⏳": [
+        "https://digitaltmuseum.se/021026254502/timglas",
+        "https://stockholmskallan.stockholm.se/post/10163"
+    ],
     "⏸": [],
     "⏹": [],
     "⏺": [],
@@ -126,7 +130,21 @@
         "https://digitaltmuseum.se/021026360642/telefon"
     ],
     "☑️": [],
-    "☔️": [],
+    "☔️": [
+        "https://stockholmskallan.stockholm.se/post/11655",
+        "https://stockholmskallan.stockholm.se/post/9740",
+        "https://stockholmskallan.stockholm.se/post/19217"
+    ],
+    "☂️": [
+        "https://stockholmskallan.stockholm.se/post/11655",
+        "https://stockholmskallan.stockholm.se/post/9740",
+        "https://stockholmskallan.stockholm.se/post/19217"
+    ],
+    "🌧️": [
+        "https://stockholmskallan.stockholm.se/post/11655",
+        "https://stockholmskallan.stockholm.se/post/9740",
+        "https://stockholmskallan.stockholm.se/post/19217"
+    ],
     "☕️": [
         "https://stockholmskallan.stockholm.se/post/27428",
         "https://digitaltmuseum.se/011014012988/fika-med-kompisar-i-torbjorn-ehrnvalls-ungkarlslya-vastra-jarnvagsgatan"
@@ -188,7 +206,9 @@
         "https://digitaltmuseum.se/011013838067/lovsta-bilskrot-i-hasselby-stockholm-digitaltmuseum-1948-oldsmobile-convertible"
     ],
     "♿️": [],
-    "⚒": [],
+    "⚒": [
+        "https://stockholmskallan.stockholm.se/post/13453"
+    ],
     "⚓️": [
         "http://collections.smvk.se/carlotta-em/web/object/1004623"
     ],
@@ -645,6 +665,9 @@
     ],
     "🤺": [
         "http://collections.smvk.se/carlotta-vkm/web/object/1316742"
+    ],
+    "⚜️": [
+        "https://stockholmskallan.stockholm.se/post/10304"
     ],
     "🌶": [],
     "🌷": [],
