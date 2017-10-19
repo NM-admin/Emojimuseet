@@ -30,9 +30,9 @@ http.createServer(bot.middleware()).listen(3000);
 console.log('Echo bot server running at port 3000.');
 
 const Facebook = {
-	bot: () => {
-    	return bot;
-  	}
+  bot: () => {
+    return bot;
+  }
 };
 
 module.exports = Facebook;
