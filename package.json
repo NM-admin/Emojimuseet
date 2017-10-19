@@ -9,9 +9,10 @@
     "url": "https://github.com/Ambrosiani/Emojimuseet"
   },
   "dependencies": {
-    "twit": "1.x",
     "ejs": "2.4.1",
-    "thenby": "^1.2.1"
+    "messenger-bot": "^2.4.0",
+    "thenby": "^1.2.1",
+    "twit": "1.x"
   },
   "bugs": {
     "url": "https://github.com/Ambrosiani/Emojimuseet/issues"
