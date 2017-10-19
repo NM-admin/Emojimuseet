@@ -808,7 +808,10 @@
     ],
     "🍤": [],
     "🍥": [],
-    "🍦": [],
+    "🍦": [
+        "https://digitaltmuseum.se/011023832693/glass",
+        "https://digitaltmuseum.se/021016742867/konsum-alfa-festen-i-folkparken-den-25-augusti-1943"
+    ],
     "🍧": [],
     "🍨": [],
     "🍩": [],
@@ -821,15 +824,21 @@
     ],
     "🍭": [],
     "🍮": [],
-    "🍯": [],
+    "🍯": [
+        "https://digitaltmuseum.se/021016320304/honungsburkar-1940-akta-svensk-honung"
+    ],
     "🍰": [],
     "🍱": [],
     "🍲": [],
     "🍳": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=100530&viewType=detailView"
     ],
-    "🍴": [],
-    "🍵": [],
+    "🍴": [
+        "https://digitaltmuseum.se/021025932855/bestick"
+    ],
+    "🍵": [
+        "https://digitaltmuseum.se/021027018799/tekopp"
+    ],
     "🍶": [],
     "🍷": [],
     "🍸": [
@@ -849,7 +858,8 @@
     ],
     "🍼": [],
     "🍽": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18709&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18709&viewType=detailView",
+        "https://digitaltmuseum.se/011013989261/bordsdukning-fackskolan-for-huslig-ekonomi-i-uppsala"
     ],
     "🍾": [
         "https://digitaltmuseum.se/021016739296/herr-ivar-aberg-fotograferad-pa-hotell-baltic-med-froken-ann-slott-25-september"
