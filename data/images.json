@@ -277,6 +277,10 @@
         "https://stockholmskallan.stockholm.se/post/12149",
         "https://stockholmskallan.stockholm.se/post/12719"
     ],
+    "⛹️": [
+        "https://stockholmskallan.stockholm.se/post/12149",
+        "https://stockholmskallan.stockholm.se/post/12719"
+    ],
     "⛺️": [
         "https://stockholmskallan.stockholm.se/post/13810",
         "https://stockholmskallan.stockholm.se/post/19839"
@@ -684,7 +688,9 @@
     "🌭": [
         "https://digitaltmuseum.se/021015882748/julruschen-pa-postkontoret-jakobsberg-1969-marie-louise-ericsson-och-christina"
     ],
-    "🌮": [],
+    "🌮": [
+        "https://digitaltmuseum.se/021026381963/frimarke"
+    ],
     "🌯": [],
     "🌰": [],
     "🌱": [],
@@ -731,7 +737,9 @@
     "🍃": [],
     "🍄": [],
     "🍅": [],
-    "🍆": [],
+    "🍆": [
+        "https://digitaltmuseum.se/021026381963/frimarke"
+    ],
     "🍇": [
         "http://collections.smvk.se/carlotta-mhm/web/object/4280905",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22320&viewType=detailView",
@@ -763,19 +771,31 @@
     "🍓": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23918&viewType=detailView"
     ],
-    "🍔": [],
-    "🍕": [],
+    "🍔": [
+        "https://digitaltmuseum.se/021026381963/frimarke"
+    ],
+    "🍕": [
+        "https://digitaltmuseum.se/021015790618/nya-restaurangen-morella-i-lindome-centrum-ar-1985-hakan-lundell-kan-det"
+    ],
     "🍖": [],
     "🍗": [],
-    "🥞": [],
+    "🥞": [
+        "https://digitaltmuseum.se/011013989054/graddning-av-pannkakor-fackskolan-for-huslig-ekonomi-uppsala-februari-193"
+    ],
     "🍘": [],
     "🍙": [],
     "🍚": [],
     "🍛": [],
     "🍜": [],
-    "🍝": [],
+    "🍝": [
+        "https://digitaltmuseum.se/011013982645/blixt-maccaroni-och-blixt-spaghetti-reklam-for-upsala-angqvarns-ab-uppsal"
+    ],
     "🍞": [
-        "http://collections.smvk.se/carlotta-em/web/object/2079531"
+        "http://collections.smvk.se/carlotta-em/web/object/2079531",
+        "https://digitaltmuseum.se/011013852812/kvinna-bar-planka-med-brod-for-graddning-kreta"
+    ],
+    "🥖": [
+        "https://digitaltmuseum.se/011013852812/kvinna-bar-planka-med-brod-for-graddning-kreta"
     ],
     "🍟": [
         "https://digitaltmuseum.se/021015882748/julruschen-pa-postkontoret-jakobsberg-1969-marie-louise-ericsson-och-christina"
@@ -783,7 +803,9 @@
     "🍠": [],
     "🍡": [],
     "🍢": [],
-    "🍣": [],
+    "🍣": [
+        "https://digitaltmuseum.se/021026381963/frimarke"
+    ],
     "🍤": [],
     "🍥": [],
     "🍦": [],
@@ -1226,7 +1248,8 @@
     "👏": [],
     "👐": [],
     "👑": [
-        "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=36503&viewType=detailView"
+        "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=36503&viewType=detailView",
+        "https://digitaltmuseum.se/011023510436/burk"
     ],
     "👒": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177754&viewType=detailView"
@@ -1991,7 +2014,9 @@
     "🤡": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=148079&viewType=detailView"
     ],
-    "🥑": [],
+    "🥑": [
+        "https://digitaltmuseum.se/021026381963/frimarke"
+    ],
     "🦑": [],
     "🤠": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=151326&viewType=detailView"
