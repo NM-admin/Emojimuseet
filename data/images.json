@@ -85,7 +85,9 @@
     "↙️": [],
     "↩️": [],
     "↪️": [],
-    "⌚️": [],
+    "⌚️": [
+        "https://digitaltmuseum.se/011023807221/fickur"
+    ],
     "⌛️": [
         "https://digitaltmuseum.se/021026254502/timglas",
         "https://stockholmskallan.stockholm.se/post/10163"
@@ -428,7 +430,13 @@
     "🇩🇪": [],
     "🇩🇬": [],
     "🇩🇯": [],
-    "🇩🇰": [],
+    "🇩🇰": [
+        "https://digitaltmuseum.se/011024439619/standar",
+        "https://digitaltmuseum.se/011024439403/fana",
+        "https://digitaltmuseum.se/011024439262/fana",
+        "https://digitaltmuseum.se/011024439415/fana",
+        "https://digitaltmuseum.se/011023373890/sedel"
+    ],
     "🇩🇲": [],
     "🇩🇴": [],
     "🇩🇿": [],
@@ -441,7 +449,9 @@
     "🇪🇸": [],
     "🇪🇹": [],
     "🇪🇺": [],
-    "🇫🇮": [],
+    "🇫🇮": [
+        "https://digitaltmuseum.se/011024429043/bombskarva"
+    ],
     "🇫🇯": [],
     "🇫🇰": [],
     "🇫🇲": [],
@@ -455,7 +465,12 @@
     "🇬🇬": [],
     "🇬🇭": [],
     "🇬🇮": [],
-    "🇬🇱": [],
+    "🇬🇱": [
+        "https://digitaltmuseum.se/011023807221/fickur",
+        "https://digitaltmuseum.se/011023084009/tobakspung",
+        "https://digitaltmuseum.se/021015760380/strandad-pa-gronlands-ostkust",
+        "https://digitaltmuseum.se/011023373890/sedel"
+    ],
     "🇬🇲": [],
     "🇬🇳": [],
     "🇬🇵": [],
@@ -481,7 +496,9 @@
     "🇮🇴": [],
     "🇮🇶": [],
     "🇮🇷": [],
-    "🇮🇸": [],
+    "🇮🇸": [
+        "https://digitaltmuseum.se/011013846161/forfattaren-och-nobelpristagaren-halldor-laxness-till-hast"
+    ],
     "🇮🇹": [],
     "🇯🇪": [],
     "🇯🇲": [],
@@ -543,7 +560,11 @@
     "🇳🇬": [],
     "🇳🇮": [],
     "🇳🇱": [],
-    "🇳🇴": [],
+    "🇳🇴": [
+        "https://digitaltmuseum.se/011024363294/flagga",
+        "https://digitaltmuseum.se/011013996039/norrmannens-17-maj-i-upsala-segertro-och-frihetsbekannelse-uppsala-194",
+        "https://digitaltmuseum.se/011013853448/firandet-av-den-norska-nationaldagen-17-e-maj-i-stockholm-firare-tagar"
+    ],
     "🇳🇵": [],
     "🇳🇷": [],
     "🇳🇺": [],
@@ -575,7 +596,8 @@
     "🇸🇩": [],
     "🇸🇪": [
         "https://digitaltmuseum.se/011024813563/flaska",
-        "https://digitaltmuseum.se/021046502996/gustav-vasas-intag-i-stockholm-1523"
+        "https://digitaltmuseum.se/021046502996/gustav-vasas-intag-i-stockholm-1523",
+        "https://digitaltmuseum.se/021027307774/unionsflagga"
     ],
     "🇸🇬": [],
     "🇸🇭": [],
@@ -1045,7 +1067,8 @@
         "https://digitaltmuseum.se/021016955362/cirkusbjorn-balanserar-pa-boll-cirkus-scott-besoker-sabbatsbergs-sjukhu"
     ],
     "🏦": [
-        "https://digitaltmuseum.se/021016737220/gefle-stads-sparbank-startades-1824-for-att-forvalta-mindre-bemedlade-arbetares"
+        "https://digitaltmuseum.se/021016737220/gefle-stads-sparbank-startades-1824-for-att-forvalta-mindre-bemedlade-arbetares",
+        "https://digitaltmuseum.se/011014705820/sparklubbsavdelningens-samling-av-kontokort-ca-320-000-st-pa-3-tr-fonster"
     ],
     "🏧": [
         "https://digitaltmuseum.se/011014895360/sparbanken-vasternorrland-minutenautomat",
@@ -1528,7 +1551,8 @@
      "❣": [],
     "❤️": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView",
-        "https://digitaltmuseum.se/011024606000/spel"
+        "https://digitaltmuseum.se/011024606000/spel",
+        "https://digitaltmuseum.se/011024439415/fana"
     ],
     "💠": [],
     "💡": [],
@@ -1561,15 +1585,30 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18868&viewType=detailView"
     ],
     "💯": [],
-    "💰": [],
+    "💰": [
+        "https://digitaltmuseum.se/021026707986/mynt",
+        "https://digitaltmuseum.se/011023373890/sedel"
+    ],
     "💱": [],
     "💲": [],
-    "💳": [],
-    "💴": [],
-    "💵": [],
-    "💶": [],
-    "💷": [],
-    "💸": [],
+    "💳": [
+        "https://digitaltmuseum.se/021026361960/kontokort"
+    ],
+    "💴": [
+        "https://digitaltmuseum.se/021026707986/mynt"
+    ],
+    "💵": [
+        "https://digitaltmuseum.se/021026707798/mynt"
+    ],
+    "💶": [
+        "https://digitaltmuseum.se/021027146898/mynt"
+    ],
+    "💷": [
+        "https://digitaltmuseum.se/021027146401/mynt"
+    ],
+    "💸": [
+        "https://digitaltmuseum.se/011023373890/sedel"
+    ],
     "💹": [],
     "💺": [],
     "💻": [],
@@ -1763,7 +1802,9 @@
     "🕕": [],
     "🕖": [],
     "🕗": [],
-    "🕘": [],
+    "🕘": [
+        "https://digitaltmuseum.se/011023807221/fickur"
+    ],
     "🕙": [],
     "🕚": [],
     "🕛": [],
