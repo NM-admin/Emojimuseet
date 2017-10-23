@@ -1003,7 +1003,9 @@
     ],
     "🎷": [],
     "🎸": [],
-    "🎹": [],
+    "🎹": [
+        "https://digitaltmuseum.se/021016737375/ab-gefle-orgel-pianofabrik-orgel"
+    ],
     "🎺": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17413&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=95173&viewType=detailView"
@@ -1186,7 +1188,8 @@
         "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=39168&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112162&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=210192&viewType=detailView",
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=209463&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=209463&viewType=detailView",
+        "https://digitaltmuseum.se/021016300203/varldens-forsta-mekaniska-elefant"
     ],
     "🐙": [
         "http://collections.smvk.se/carlotta-vkm/web/object/57097"
@@ -1994,7 +1997,10 @@
     "🙍": [],
     "🙎": [],
     "🙏": [],
-    "🚀": [],
+    "🚀": [
+        "https://digitaltmuseum.se/021017102811/raket-hallen-med-nike-apache-raketer-narmast-kameran-ett-andra-steg-med",
+        "https://digitaltmuseum.se/011015415754/fo25860"
+    ],
     "🚁": [
         "https://digitaltmuseum.se/011014689730/sverige"
     ],
@@ -2139,7 +2145,11 @@
     "🤓": [],
     "🤔": [],
     "🤕": [],
-    "🤖": [],
+    "🤖": [
+        "https://digitaltmuseum.se/021016300203/varldens-forsta-mekaniska-elefant",
+        "https://digitaltmuseum.se/021016902082/ekensbergs-varv-varvsbyggnad-interior-verkstadsarbetare-vid-maskin",
+        "https://digitaltmuseum.se/021026970683/dammsugare"
+    ],
     "🤗": [],
     "🤘": [],
     "🦀": [],
