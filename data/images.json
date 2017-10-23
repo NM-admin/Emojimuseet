@@ -1406,12 +1406,22 @@
     "👨‍👨‍👧‍👦": [],
     "👨‍👨‍👧‍👧": [],
     "👨‍👩‍👦": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=32070&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=32070&viewType=detailView",
+        "https://digitaltmuseum.se/021016878464/christina-larsson-den-5-december-1983"
                 ],
-    "👨‍👩‍👦‍👦": [],
-    "👨‍👩‍👧": [],
+    "👨‍👩‍👦‍👦": [
+        "https://digitaltmuseum.se/021016878511/familjen-richt-sandviken-den-9-december-1983"
+    ],
+    "👨‍👩‍👧": [
+        "https://digitaltmuseum.se/021016878478/christer-larsson-hovdingavagen-gavle-den-12-november-1983"
+    ],
     "👨‍👩‍👧‍👦": [],
-    "👨‍👩‍👧‍👧": [],
+    "👩‍👧‍👦": [
+        "https://digitaltmuseum.se/021015980753/svea-amsby-med-barnen-carl-gustaf-och-anna-karin"
+    ],
+    "👨‍👩‍👧‍👧": [
+        "https://digitaltmuseum.se/021016878548/familjen-gotesson-juni-1983"
+    ],
     "👩": [
         "https://digitaltmuseum.se/021016183476/diskotek-6-maj-1969-pa-diskoteket-night-circle-sitter-det-fyra-kvinnor"
     ],
