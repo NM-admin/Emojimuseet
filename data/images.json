@@ -1893,14 +1893,19 @@
     "🗿": [],
     "😀": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18491&viewType=detailView",
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=122066&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=122066&viewType=detailView",
+        "https://stockholmskallan.stockholm.se/post/14929"
     ],
-    "😁": [],
+    "😁": [
+        "https://stockholmskallan.stockholm.se/post/14929"
+    ],
     "😂": [],
     "😃": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18490&viewType=detailView"
     ],
-    "😄": [],
+    "😄": [
+        "https://stockholmskallan.stockholm.se/post/14929"
+    ],
     "😅": [],
     "😆": [],
     "😇": [],
@@ -1912,7 +1917,9 @@
     "😋": [],
     "😌": [],
     "😍": [],
-    "😎": [],
+    "😎": [
+        "https://stockholmskallan.stockholm.se/post/15226"
+    ],
     "😏": [
         "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177418&viewType=detailView"
     ],
