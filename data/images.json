@@ -1345,7 +1345,9 @@
     "👍": [],
     "👎": [],
     "👏": [],
-    "👐": [],
+    "👐": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=15058&viewType=detailView"
+    ],
     "👑": [
         "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=36503&viewType=detailView",
         "https://digitaltmuseum.se/011023510436/burk"
