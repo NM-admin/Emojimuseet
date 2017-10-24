@@ -24,7 +24,7 @@ The emojis reside in [images.json](https://github.com/Ambrosiani/Emojimuseet/blo
   cp .env.example .env
   ```
 
-2. [Get credentials for your bot](https://dev.twitter.com/) and complete the `.env`
+2. [Get credentials for your bot](https://dev.twitter.com/) and complete the `.env`. Note that `TWITTER_SCREEN_NAME` is case-sensitive.
 
 ### Usage
 
