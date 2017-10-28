@@ -2044,8 +2044,12 @@
     "😑": [],
     "😒": [],
     "😓": [],
-    "😔": [],
-    "😕": [],
+    "😔": [
+        "https://digitaltmuseum.se/021016980134/vanersborg-kerstin"
+    ],
+    "😕": [
+        "https://digitaltmuseum.se/021017162900/kristina-mellqvist-smaskollarare-i-hornborga-1884-88-fodd-1860-27-8-i-trassberg"
+    ],
     "😖": [],
     "😗": [
         "https://digitaltmuseum.se/011014014967/det-hande-en-kvall-en-kyss-i-raggaraket-uppsala-1961",
@@ -2076,21 +2080,32 @@
     "😝": [
         "https://digitaltmuseum.se/021015930828/paris-kvinna-pa-loppmarknad-racker-ut-tungan"
     ],
-    "😞": [],
-    "😟": [],
-    "😠": [],
+    "😞": [
+        "https://digitaltmuseum.se/021016980134/vanersborg-kerstin"
+    ],
+    "😟": [
+        "https://digitaltmuseum.se/021016980134/vanersborg-kerstin"
+    ],
+    "😠": [
+        "https://digitaltmuseum.se/021017162900/kristina-mellqvist-smaskollarare-i-hornborga-1884-88-fodd-1860-27-8-i-trassberg"
+    ],
     "😡": [],
-    "😢": [],
+    "😢": [
+        "https://digitaltmuseum.se/011013981251/barnportratt-gratande-pojke-per-arne-mattsson-uppsala-1966"
+    ],
     "😣": [],
     "😤": [],
     "😥": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17323&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17323&viewType=detailView",
+        "https://digitaltmuseum.se/011013981251/barnportratt-gratande-pojke-per-arne-mattsson-uppsala-1966"
     ],
     "😦": [],
     "😧": [],
     "😨": [],
     "😩": [],
-    "😪": [],
+    "😪": [
+        "https://digitaltmuseum.se/011013981251/barnportratt-gratande-pojke-per-arne-mattsson-uppsala-1966"
+    ],
     "😫": [],
     "😬": [],
     "😭": [],
@@ -2110,7 +2125,9 @@
     "😻": [],
     "😼": [],
     "😽": [],
-    "😾": [],
+    "😾": [
+        "https://digitaltmuseum.se/011024652575/frimarke"
+    ],
     "😿": [],
     "🙀": [],
     "🙁": [],
