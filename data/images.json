@@ -2102,11 +2102,15 @@
     "😦": [],
     "😧": [],
     "😨": [],
-    "😩": [],
+    "😩": [
+        "https://digitaltmuseum.se/021046504493/klagan"
+    ],
     "😪": [
         "https://digitaltmuseum.se/011013981251/barnportratt-gratande-pojke-per-arne-mattsson-uppsala-1966"
     ],
-    "😫": [],
+    "😫": [
+        "https://digitaltmuseum.se/021046504493/klagan"
+    ],
     "😬": [],
     "😭": [],
     "😮": [],
@@ -2150,7 +2154,9 @@
     ],
     "🙍": [],
     "🙎": [],
-    "🙏": [],
+    "🙏": [
+        "https://digitaltmuseum.se/021046507385/st-filippo-neri-i-bon"
+    ],
     "🚀": [
         "https://digitaltmuseum.se/021017102811/raket-hallen-med-nike-apache-raketer-narmast-kameran-ett-andra-steg-med",
         "https://digitaltmuseum.se/011015415754/fo25860"
@@ -2162,18 +2168,36 @@
         "https://digitaltmuseum.se/021016513173/lokomotiv-till-gjuteriet-ar-1935-10993",
         "https://stockholmskallan.stockholm.se/post/21110"
     ],
-    "🚃": [],
-    "🚄": [],
-    "🚅": [],
-    "🚆": [],
-    "🚇": [],
-    "🚈": [],
-    "🚉": [],
+    "🚃": [
+        "https://digitaltmuseum.se/021016941630/jarnvagsolyckan-vid-lagerlunda-1875-den-forsta-tagkollisionen-i-sverige"
+    ],
+    "🚄": [
+        "https://digitaltmuseum.se/021016523044/kalmar-verkstad-ab-kvab-tillverkning-av-sjs-snabbtag-x2000"
+    ],
+    "🚅": [
+        "https://digitaltmuseum.se/021016523044/kalmar-verkstad-ab-kvab-tillverkning-av-sjs-snabbtag-x2000"
+    ],
+    "🚆": [
+        "https://digitaltmuseum.se/021016523044/kalmar-verkstad-ab-kvab-tillverkning-av-sjs-snabbtag-x2000",
+        "https://digitaltmuseum.se/021016731748/angdrivet-snalltag-over-jarnvagsbron-i-lenninge"
+    ],
+    "🚇": [
+        "https://digitaltmuseum.se/011015420165/tunnelbana-exterior",
+        "http://sparvagsmuseet.sl.se/databas/invigning-av-tunnelbanan-1950-106003/",
+        "http://sparvagsmuseet.sl.se/databas/invigning-sodra-tunnelbanan-63979/"
+    ],
+    "🚈": [
+        "http://sparvagsmuseet.sl.se/databas/sparvagnstag-pa-sockenvagen-1950-108590/"
+    ],
+    "🚉": [
+        "http://sparvagsmuseet.sl.se/databas/invigning-sodra-tunnelbanan-63979/"
+    ],
     "🚊": [
         "https://digitaltmuseum.se/011013992585/verkstallande-direktor-hilding-k-son-angstrom-och-verkmastare-efraim-ericson"
     ],
     "🚋": [
-        "https://digitaltmuseum.se/011013992585/verkstallande-direktor-hilding-k-son-angstrom-och-verkmastare-efraim-ericson"
+        "https://digitaltmuseum.se/011013992585/verkstallande-direktor-hilding-k-son-angstrom-och-verkmastare-efraim-ericson",
+        "http://sparvagsmuseet.sl.se/databas/tradbuss-och-sparvagn-vid-77996/"
     ],
     "🚌": [
         "https://digitaltmuseum.se/021016603536/bussar-pa-torget-for-hogertrafikomlaggningen-1967"
@@ -2181,15 +2205,41 @@
     "🚍": [
         "https://digitaltmuseum.se/021016603536/bussar-pa-torget-for-hogertrafikomlaggningen-1967"
     ],
-    "🚎": [],
-    "🚏": [],
-    "🚐": [],
-    "🚑": [],
-    "🚒": [],
-    "🚓": [],
-    "🚔": [],
-    "🚕": [],
-    "🚖": [],
+    "🚎": [
+        "http://sparvagsmuseet.sl.se/databas/tradbuss-pa-linje-30-78599/",
+        "http://sparvagsmuseet.sl.se/databas/tradbuss-och-sparvagn-vid-77996/"
+    ],
+    "🚏": [
+        "http://sparvagsmuseet.sl.se/databas/busskur-busshallplats-eriksbergsplan-linje-150880/"
+    ],
+    "🚐": [
+        "http://sparvagsmuseet.sl.se/databas/ringlinjen-nynashamn-minibuss-42727/",
+        "https://digitaltmuseum.se/021016315433/den-sannolikt-fosta-hotellomnibussen-ar-1898"
+    ],
+    "🚑": [
+        "https://digitaltmuseum.se/021016750150/kalmars-forsta-ambulansvagn-som-senare-overfordes-till-polisen-dar-den",
+        "https://digitaltmuseum.se/011013993033/upsala-har-nu-sveriges-modernaste-ambulans-med-chassi-tillverkat-av-volvo"
+    ],
+    "🚒": [
+        "https://digitaltmuseum.se/021015587968/ny-brandbil-i-sundsvall-med-alla-moderniteter-vid-forarplatsen-en-bastant",
+        "https://digitaltmuseum.se/021017104073/tre-brandbilar-pa-utryckning"
+    ],
+    "🚓": [
+        "https://digitaltmuseum.se/021016262482/premiar-for-polisens-nya-radiobil-forsta-bilden-ar-tagen-pa-norra-jarnvagsgatan",
+        "https://digitaltmuseum.se/011014020380/en-tyst-minut-till-minnet-av-den-skjutne-polismannen-ragnar-nilsson-stora"
+    ],
+    "🚔": [
+        "https://digitaltmuseum.se/021016262482/premiar-for-polisens-nya-radiobil-forsta-bilden-ar-tagen-pa-norra-jarnvagsgatan",
+        "https://digitaltmuseum.se/011014020380/en-tyst-minut-till-minnet-av-den-skjutne-polismannen-ragnar-nilsson-stora"
+    ],
+    "🚕": [
+        "https://digitaltmuseum.se/021017076409/taxi-utanfor-teatern",
+        "https://digitaltmuseum.se/021016315433/den-sannolikt-fosta-hotellomnibussen-ar-1898"
+    ],
+    "🚖": [
+        "https://digitaltmuseum.se/021017076409/taxi-utanfor-teatern",
+        "https://digitaltmuseum.se/021016315433/den-sannolikt-fosta-hotellomnibussen-ar-1898"
+    ],
     "🚗": [
         "https://digitaltmuseum.se/021016756323/bilko-pa-olandsbron-de-forsta-aren-blev-det-langa-koer-pa-bron-vid-midsommar"
     ],
@@ -2200,20 +2250,35 @@
         "https://digitaltmuseum.se/021016315147/semesterbild-familj-pa-campingsemester-i-volkswagenbuss-folkvagn",
         "https://digitaltmuseum.se/021016756323/bilko-pa-olandsbron-de-forsta-aren-blev-det-langa-koer-pa-bron-vid-midsommar"
     ],
-    "🚚": [],
-    "🚛": [],
+    "🚚": [
+        "https://digitaltmuseum.se/011014886185/pickos-budbilar-vid-bilovalen-pa-skonsmon"
+    ],
+    "🚛": [
+        "https://digitaltmuseum.se/021016253462/bjorka-mineral-i-lillkyrka-socken-bjorka-mineral-ar-en-gruva-som-bryter"
+    ],
     "🚜": [
         "https://digitaltmuseum.se/021016339170/motorplogstavling-vid-hillerod-1920-moline-universal-traktor-jarnhast-forsaljes"
     ],
-    "🚝": [],
-    "🚞": [],
-    "🚟": [],
-    "🚠": [],
+    "🚝": [
+        "http://sparvagsmuseet.sl.se/databas/houston-monorail-exteriorbild-60479/"
+    ],
+    "🚞": [
+        "https://digitaltmuseum.se/021016301460/stereobild-av-bergbanan-skansen-stockholm-med-vy-over-djurgarden-med-nordiska"
+    ],
+    "🚟": [
+        "http://sparvagsmuseet.sl.se/databas/houston-monorail-exteriorbild-60479/"
+    ],
+    "🚠": [
+        "https://digitaltmuseum.se/021016988939/hmm13108"
+    ],
     "🚡": [
         "https://digitaltmuseum.se/021017103836/linbanans-lastningsstation-med-spel-for-vagnarnas-nedfirning-i-pramarnas",
-        "https://digitaltmuseum.se/021017103838/linbanebild-med-malmvagn-fran-vastanfors-bruk"
+        "https://digitaltmuseum.se/021017103838/linbanebild-med-malmvagn-fran-vastanfors-bruk",
+        "https://digitaltmuseum.se/021016988939/hmm13108"
     ],
-    "🚢": [],
+    "🚢": [
+        "https://digitaltmuseum.se/021025929160/fartygsmodell"
+    ],
     "🚣": [
         "https://digitaltmuseum.se/021016216065/sjoutsikt-fyra-personer-och-en-hund-i-en-roddbat"
     ],
