@@ -1086,18 +1086,29 @@
     ],
     "🏪": [],
     "🏫": [],
-    "🏬": [],
+    "🏬": [
+        "https://digitaltmuseum.se/021017275621/interior-fran-linkopings-saluhall-narmast-saljer-elna-erikssons-ost-smoraffa"
+    ],
     "🏭": [
         "https://digitaltmuseum.se/021016861957/personal-vid-gamla-mekaniska-verkstaden-vid-forsbacka-jarnverk-omkring"
     ],
-    "🏮": [],
+    "🏮": [
+        "http://collections.smvk.se/carlotta-vkm/web/object/33331"
+    ],
     "🏯": [],
     "🏰": [],
-    "🏳": [],
+    "🏳": [
+        "https://digitaltmuseum.se/011024397630/flagga"
+    ],
     "🏳️‍🌈": [
         "https://digitaltmuseum.se/011023832957/rockslagsmarke"
     ],
-    "🏴": [],
+    "🏴": [
+        "https://digitaltmuseum.se/021015506485/konservator-fran-armemuseet-tittar-till-den-lanade-piratflaggan-fran-alands"
+    ],
+    "🏴‍☠️": [
+        "https://digitaltmuseum.se/021015506485/konservator-fran-armemuseet-tittar-till-den-lanade-piratflaggan-fran-alands"
+    ],
     "🏵": [],
     "🏷": [],
     "🏸": [],
@@ -2417,7 +2428,10 @@
     "🦖": [
         "https://digitaltmuseum.se/021017185015/k-nex-utstallningen-tyrannosaurus-rex-50-487-bitar-och-baby-t-rex-8-542"
     ],
-    "🧀": [],
+    "🧀": [
+        "https://digitaltmuseum.se/021016594842/vase-mejeri-1943",
+        "https://digitaltmuseum.se/021017275621/interior-fran-linkopings-saluhall-narmast-saljer-elna-erikssons-ost-smoraffa"
+    ],
     "🧐": [
         "https://digitaltmuseum.se/021016513161/ateljeportratt-av-okand-skadespelare"
     ],
@@ -2433,5 +2447,8 @@
         "https://digitaltmuseum.se/021016811205/paskkarringar-ar-1964"
     ],
     "🧜‍♀️": [],
-    "🧞": []
+    "🧞": [],
+    "🧛": [
+        "https://digitaltmuseum.se/021026455872/docka"
+    ]
 }
