@@ -762,7 +762,10 @@
     "🍁": [],
     "🍂": [],
     "🍃": [],
-    "🍄": [],
+    "🍄": [
+        "https://digitaltmuseum.se/021017004026/hmm39002",
+        "https://digitaltmuseum.se/011023832331/flugsvamp"
+    ],
     "🍅": [],
     "🍆": [
         "https://digitaltmuseum.se/021026381963/frimarke"
@@ -1379,8 +1382,12 @@
     "👔": [
         "https://digitaltmuseum.se/011014113263/en-kvinna-far-en-slips-pa-sig"
     ],
-    "👕": [],
-    "👖": [],
+    "👕": [
+        "https://digitaltmuseum.se/021015511794/ung-man-fran-stockholm-2009-kladd-som-cybergoth-loshar-s-k-dreads-tovade"
+    ],
+    "👖": [
+        "https://digitaltmuseum.se/011023811372/byxor"
+    ],
     "👗": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=148038&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=15174&viewType=detailView"
@@ -1945,7 +1952,9 @@
     "😉": [
         "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=21152&viewType=detailView"
     ],
-    "😊": [],
+    "😊": [
+        "https://digitaltmuseum.se/011023822742/troll"
+    ],
     "😋": [],
     "😌": [],
     "😍": [
@@ -1959,7 +1968,10 @@
     ],
     "😐": [],
     "😑": [],
-    "😒": [],
+    "😒": [
+        "https://digitaltmuseum.se/011023659012/dockhuvud",
+        "https://digitaltmuseum.se/011023346340/tavla"
+    ],
     "😓": [],
     "😔": [
         "https://digitaltmuseum.se/021016980134/vanersborg-kerstin"
@@ -2058,7 +2070,9 @@
     "🙆": [],
     "🙇": [],
     "🙈": [],
-    "🙉": [],
+    "🙉": [
+        "https://digitaltmuseum.se/021026505242/studie"
+    ],
     "🙊": [],
     "🙋": [],
     "🙋‍♂️": [],
@@ -2069,7 +2083,8 @@
     "🙍": [],
     "🙎": [],
     "🙏": [
-        "https://digitaltmuseum.se/021046507385/st-filippo-neri-i-bon"
+        "https://digitaltmuseum.se/021046507385/st-filippo-neri-i-bon",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=39494&viewType=detailView"
     ],
     "🚀": [
         "https://digitaltmuseum.se/011015415754/fo25860",
@@ -2450,5 +2465,8 @@
     "🧞": [],
     "🧛": [
         "https://digitaltmuseum.se/021026455872/docka"
+    ],
+    "🧥": [
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=37532&viewType=detailView"
     ]
 }
