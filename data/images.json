@@ -689,7 +689,9 @@
     "🌎": [],
     "🌏": [],
     "🌐": [],
-    "🌑": [],
+    "🌑": [
+        "https://digitaltmuseum.se/021046500073/solformorkelse"
+    ],
     "🌒": [],
     "🌓": [],
     "🌔": [],
@@ -2468,5 +2470,8 @@
     ],
     "🧥": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=37532&viewType=detailView"
+    ],
+    "🦅": [
+        "https://digitaltmuseum.se/011025174279/skolplansch-havsorn"
     ]
 }
