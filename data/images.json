@@ -1940,15 +1940,21 @@
     "😁": [
         "https://stockholmskallan.stockholm.se/post/14929"
     ],
-    "😂": [],
+    "😂": [
+        "https://digitaltmuseum.se/021015607958/tre-glada-barn"
+    ],
     "😃": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18490&viewType=detailView"
     ],
     "😄": [
         "https://stockholmskallan.stockholm.se/post/14929"
     ],
-    "😅": [],
-    "😆": [],
+    "😅": [
+        "https://digitaltmuseum.se/021015607958/tre-glada-barn"
+    ],
+    "😆": [
+        "https://digitaltmuseum.se/021015607958/tre-glada-barn"
+    ],
     "😇": [],
     "😈": [],
     "😉": [
@@ -2473,5 +2479,8 @@
     ],
     "🦅": [
         "https://digitaltmuseum.se/011025174279/skolplansch-havsorn"
+    ],
+    "🦆": [
+        "https://digitaltmuseum.se/011015355848/gunnar-bengt-ola-och-kerstin-titta-pa-ankorna-i-draghagen"
     ]
 }
