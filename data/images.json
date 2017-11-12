@@ -48,6 +48,10 @@
         "https://digitaltmuseum.se/011024979376/telefonapparat",
         "https://digitaltmuseum.se/021027141160/schablon"
     ],
+    "🏗️": [
+        "https://stockholmskallan.stockholm.se/post/15239",
+        "https://stockholmskallan.stockholm.se/post/16998"
+    ],
     "©️": [],
     "®️": [],
     "‼️": [],
@@ -1417,7 +1421,9 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=15174&viewType=detailView"
     ],
     "👘": [],
-    "👙": [],
+    "👙": [
+        "https://digitaltmuseum.se/011014486156/text-till-bilden-hallekind-1938"
+    ],
     "👚": [],
     "👛": [],
     "👜": [],
