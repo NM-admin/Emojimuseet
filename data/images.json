@@ -765,9 +765,17 @@
     "🌵": [
         "http://collections.smvk.se/carlotta-vkm/web/object/116919"
     ],
-    "🌶": [],
-    "🌷": [],
-    "🌸": [],
+    "🌶": [
+        "https://digitaltmuseum.se/021026482425/frimarke"
+    ],
+    "🌷": [
+        "https://digitaltmuseum.se/021027274671/tallrik",
+        "https://digitaltmuseum.se/011023488220/sockerbagarform"
+    ],
+    "🌸": [
+        "https://digitaltmuseum.se/021026161148/solfjader",
+        "https://digitaltmuseum.se/021016651555/blommande-japanskt-korsbarstrad"
+    ],
     "🌹": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23905&viewType=detailView"
     ],
@@ -778,13 +786,29 @@
     "🌻": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112947&viewType=detailView"
     ],
-    "🌼": [],
-    "🌽": [],
-    "🌾": [],
-    "🌿": [],
-    "🍀": [],
-    "🍁": [],
-    "🍂": [],
+    "🌼": [
+        "https://digitaltmuseum.se/011023890565/broderiprov"
+    ],
+    "🌽": [
+        "https://digitaltmuseum.se/021026352250/majs-prov"
+    ],
+    "🌾": [
+        "https://digitaltmuseum.se/021026873405/froprov",
+        "https://digitaltmuseum.se/011025186219/forebilder-for-teckning"
+    ],
+    "🌿": [
+        "https://digitaltmuseum.se/021026482346/frimarke",
+        "https://digitaltmuseum.se/021026272357/kuddvar"
+    ],
+    "🍀": [
+        "https://digitaltmuseum.se/011014491359/notering-pa-kortet-hjartlig-gratulation-pa-fodelsedagen-af-johannes"
+    ],
+    "🍁": [
+        "https://digitaltmuseum.se/021046502845/hosten"
+    ],
+    "🍂": [
+        "https://digitaltmuseum.se/021046502845/hosten"
+    ],
     "🍃": [],
     "🍄": [
         "https://digitaltmuseum.se/021017004026/hmm39002",
