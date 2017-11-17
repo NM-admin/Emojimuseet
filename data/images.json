@@ -942,7 +942,9 @@
         "https://digitaltmuseum.se/021027018799/tekopp"
     ],
     "🍶": [],
-    "🍷": [],
+    "🍷": [
+        "https://digitaltmuseum.se/021046508313/flicka-med-glas-i-handen-smaken-ur-en-serie-med-de-fem-sinnena"
+    ],
     "🍸": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18729&viewType=detailView"
     ],
@@ -1058,21 +1060,33 @@
     "🎮": [],
     "🎯": [],
     "🎰": [],
-    "🎱": [],
+    "🎱": [
+        "https://digitaltmuseum.se/021016191098/biljard-fritidssysselsattning-1-februari-1966-fyra-unga-pojkar-spelar-biljard"
+    ],
     "🎲": [
         "http://collections.smvk.se/carlotta-mhm/web/object/3012121"
     ],
-    "🎳": [],
-    "🎴": [],
+    "🎳": [
+        "https://digitaltmuseum.se/021017112515/bsm-i-bowling-maj-1956"
+    ],
+    "🎴": [
+        "http://collections.smvk.se/carlotta-vkm/web/object/34381"
+    ],
     "🎵": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18123&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18123&viewType=detailView",
+        "https://digitaltmuseum.se/021016907380/jazzfestival-pa-berns-stockholm-tva-musiker-framtrader-pa-bas-och-saxofo"
     ],
     "🎶": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18490&viewType=detailView",
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=51666&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=51666&viewType=detailView",
+        "https://digitaltmuseum.se/021016907380/jazzfestival-pa-berns-stockholm-tva-musiker-framtrader-pa-bas-och-saxofo"
     ],
-    "🎷": [],
-    "🎸": [],
+    "🎷": [
+        "https://digitaltmuseum.se/021016907380/jazzfestival-pa-berns-stockholm-tva-musiker-framtrader-pa-bas-och-saxofo"
+    ],
+    "🎸": [
+        "https://digitaltmuseum.se/011023832663/datorspel"
+    ],
     "🎹": [
         "https://digitaltmuseum.se/021016737375/ab-gefle-orgel-pianofabrik-orgel"
     ],
@@ -1088,11 +1102,15 @@
     ],
     "🎼": [],
     "🎽": [],
-    "🎾": [],
+    "🎾": [
+        "https://digitaltmuseum.se/021026487219/datorspel"
+    ],
     "🎿": [
         "https://digitaltmuseum.se/011013854847/modell-i-skidklader-stickad-troja-med-knappar-och-rutor-morka-byxor-raggsockor"
     ],
-    "🏀": [],
+    "🏀": [
+        "https://digitaltmuseum.se/021015749235/korp-basket-i-laroverkets-gymnastiksal-hedbergska"
+    ],
     "🏁": [],
     "🏂": [],
     "🏃": [],
@@ -1100,10 +1118,16 @@
     "🏅": [],
     "🏆": [],
     "🏇": [
-        "http://collections.smvk.se/carlotta-om/web/object/108601"
+        "http://collections.smvk.se/carlotta-om/web/object/108601",
+        "https://digitaltmuseum.se/021046508166/valkyria"
     ],
-    "🏈": [],
-    "🏉": [],
+    "🏈": [
+        "https://digitaltmuseum.se/021026357146/speldator-fotboll"
+    ],
+    "🏉": [
+        "https://digitaltmuseum.se/021015655995/rugby-sverige-sovjet-i-vanersborg",
+        "https://digitaltmuseum.se/021015755503/rugby-en-sport-som-passar-flottans-gossar"
+    ],
     "🏊": [],
     "🏊‍♀️": [],
     "🏋": [],
@@ -1817,7 +1841,9 @@
         "https://digitaltmuseum.se/011024604422/brevlada"
     ],
     "📯": [],
-    "📰": [],
+    "📰": [
+        "https://digitaltmuseum.se/021046508177/politiserande-bonder"
+    ],
     "📱": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128710&viewType=detailView"
     ],
@@ -2581,7 +2607,8 @@
     ],
     "🧔": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18499&viewType=detailView",
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=36495&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=36495&viewType=detailView",
+        "https://digitaltmuseum.se/021046508259/erik-xiv-1533-1577"
     ],
     "🧙": [],
     "🧙‍♀️": [
