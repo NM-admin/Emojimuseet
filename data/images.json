@@ -75,12 +75,20 @@
         "https://stockholmskallan.stockholm.se/post/10163"
     ],
     "⌨": [],
-    "⏩": [],
-    "⏪": [],
+    "⏩": [
+        "https://digitaltmuseum.se/021026358542/kassettbandspelare"
+    ],
+    "⏪": [
+        "https://digitaltmuseum.se/021026358542/kassettbandspelare"
+    ],
     "⏫": [],
     "⏬": [],
-    "⏭": [],
-    "⏮": [],
+    "⏭": [
+        "https://digitaltmuseum.se/021026360620/kassettbandspelare"
+    ],
+    "⏮": [
+        "https://digitaltmuseum.se/021026360620/kassettbandspelare"
+    ],
     "⏯": [],
     "⏰": [
         "https://digitaltmuseum.se/021026151073/vackarur"
@@ -88,18 +96,27 @@
     "⏱": [
         "https://digitaltmuseum.se/011014313552/enligt-notering-kvartford-och-mattaffar-i-nya-fastigheten-kilbacksgatan"
     ],
-    "⏲": [],
+    "⏲": [
+        "https://digitaltmuseum.se/021027124394/aggklocka"
+    ],
     "⏳": [
         "https://digitaltmuseum.se/021026254502/timglas",
         "https://stockholmskallan.stockholm.se/post/10163"
     ],
     "⏸": [],
-    "⏹": [],
-    "⏺": [],
+    "⏹": [
+        "https://digitaltmuseum.se/021026360620/kassettbandspelare"
+    ],
+    "⏺": [
+        "https://digitaltmuseum.se/021026358542/kassettbandspelare"
+    ],
     "Ⓜ️": [],
     "▪️": [],
     "▫️": [],
-    "▶️": [],
+    "▶️": [
+        "https://digitaltmuseum.se/021026360620/kassettbandspelare",
+        "https://digitaltmuseum.se/021026358542/kassettbandspelare"
+    ],
     "◀️": [],
     "◻️": [],
     "◼️": [],
@@ -150,7 +167,9 @@
     ],
     "☦": [],
     "☪": [],
-    "☭": [],
+    "☭": [
+        "https://digitaltmuseum.se/011024813453/batmossa"
+    ],
     "☮": [
         "https://digitaltmuseum.se/011013837172/firande-av-freden-1945-pa-kungsgatan-stockholm"
     ],
@@ -2121,7 +2140,9 @@
         "https://digitaltmuseum.se/011024652575/frimarke"
     ],
     "😿": [],
-    "🙀": [],
+    "🙀": [
+        "https://stockholmskallan.stockholm.se/post/14799"
+    ],
     "🙁": [],
     "🙂": [],
     "🙃": [],
