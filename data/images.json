@@ -146,7 +146,8 @@
     "☕️": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18709&viewType=detailView",
         "https://digitaltmuseum.se/011014012988/fika-med-kompisar-i-torbjorn-ehrnvalls-ungkarlslya-vastra-jarnvagsgatan",
-        "https://stockholmskallan.stockholm.se/post/27428"
+        "https://stockholmskallan.stockholm.se/post/27428",
+        "https://digitaltmuseum.se/021046508588/i-bersan"
     ],
     "☘": [
         "https://digitaltmuseum.se/021027148224/marke"
@@ -328,8 +329,12 @@
     "✒️": [],
     "✔️": [],
     "✖️": [],
-    "✝": [],
-    "✡": [],
+    "✝": [
+        "https://digitaltmuseum.se/021046508619/kristusbarnet-med-ett-kors-i-handen"
+    ],
+    "✡": [
+        "https://stockholmskallan.stockholm.se/post/21118"
+    ],
     "✡️": [
         "https://stockholmskallan.stockholm.se/post/21118"
     ],
@@ -1424,7 +1429,9 @@
     "👆": [],
     "👇": [],
     "👈": [],
-    "👉": [],
+    "👉": [
+        "https://digitaltmuseum.se/021046508768/venus-med-amorin"
+    ],
     "👊": [],
     "👋": [
         "https://digitaltmuseum.se/011013837696/folksamling-pa-perrong-vinkar-av-ett-tag-med-barn"
@@ -2026,10 +2033,14 @@
         "https://digitaltmuseum.se/021015607958/tre-glada-barn"
     ],
     "😆": [
-        "https://digitaltmuseum.se/021015607958/tre-glada-barn"
+        "https://digitaltmuseum.se/021015607958/tre-glada-barn",
+        "https://digitaltmuseum.se/021046508585/en-parisiska"
     ],
     "😇": [],
     "😈": [],
+    "🤚": [
+        "https://digitaltmuseum.se/021046508479/konstnarens-moder"
+    ],
     "😉": [
         "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=21152&viewType=detailView"
     ],
@@ -2045,20 +2056,27 @@
         "https://stockholmskallan.stockholm.se/post/15226"
     ],
     "😏": [
-        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177418&viewType=detailView"
+        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177418&viewType=detailView",
+        "https://digitaltmuseum.se/021046508738/kung-frederik-v-av-danmark"
     ],
-    "😐": [],
-    "😑": [],
+    "😐": [
+        "https://digitaltmuseum.se/021046508489/skadespelaren-warlamoff"
+    ],
+    "😑": [
+        "https://digitaltmuseum.se/021046508508/fru-hanna-marcus"
+    ],
     "😒": [
         "https://digitaltmuseum.se/011023659012/dockhuvud",
         "https://digitaltmuseum.se/011023346340/tavla"
     ],
     "😓": [],
     "😔": [
-        "https://digitaltmuseum.se/021016980134/vanersborg-kerstin"
+        "https://digitaltmuseum.se/021016980134/vanersborg-kerstin",
+        "https://digitaltmuseum.se/021046508645/resignation"
     ],
     "😕": [
-        "https://digitaltmuseum.se/021017162900/kristina-mellqvist-smaskollarare-i-hornborga-1884-88-fodd-1860-27-8-i-trassberg"
+        "https://digitaltmuseum.se/021017162900/kristina-mellqvist-smaskollarare-i-hornborga-1884-88-fodd-1860-27-8-i-trassberg",
+        "https://digitaltmuseum.se/021046508698/fosterbroderna"
     ],
     "😖": [],
     "😗": [
@@ -2088,10 +2106,12 @@
         "https://digitaltmuseum.se/021015930828/paris-kvinna-pa-loppmarknad-racker-ut-tungan"
     ],
     "😞": [
-        "https://digitaltmuseum.se/021016980134/vanersborg-kerstin"
+        "https://digitaltmuseum.se/021016980134/vanersborg-kerstin",
+        "https://digitaltmuseum.se/021046508698/fosterbroderna"
     ],
     "😟": [
-        "https://digitaltmuseum.se/021016980134/vanersborg-kerstin"
+        "https://digitaltmuseum.se/021016980134/vanersborg-kerstin",
+        "https://digitaltmuseum.se/021046508698/fosterbroderna"
     ],
     "😠": [
         "https://digitaltmuseum.se/021017162900/kristina-mellqvist-smaskollarare-i-hornborga-1884-88-fodd-1860-27-8-i-trassberg"
@@ -2120,14 +2140,23 @@
     ],
     "😬": [],
     "😭": [],
-    "😮": [],
-    "😯": [],
+    "😮": [
+        "https://digitaltmuseum.se/021046508506/hypnotisk-seans"
+    ],
+    "😯": [
+        "https://digitaltmuseum.se/021046508506/hypnotisk-seans"
+    ],
     "😰": [],
     "😱": [],
-    "😲": [],
+    "😲": [
+        "https://digitaltmuseum.se/021046508506/hypnotisk-seans"
+    ],
     "😳": [],
     "😴": [],
-    "😵": [],
+    "😵": [
+        "https://digitaltmuseum.se/021046508747/den-heliga-teresas-extas",
+        "https://digitaltmuseum.se/021046508539/nacken"
+    ],
     "😶": [],
     "😷": [],
     "😸": [],
@@ -2143,11 +2172,17 @@
     "🙀": [
         "https://stockholmskallan.stockholm.se/post/14799"
     ],
-    "🙁": [],
-    "🙂": [],
+    "🙁": [
+        "https://digitaltmuseum.se/021046508645/resignation"
+    ],
+    "🙂": [
+        "https://digitaltmuseum.se/021046508658/kristina-sofia-silfverskold-gift-drufva-1726-1779"
+    ],
     "🙃": [],
     "🙄": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19076&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19076&viewType=detailView",
+        "https://digitaltmuseum.se/021046508767/bacchus-och-ariadne",
+        "https://digitaltmuseum.se/021046508770/greve-carl-gustaf-tessin"
     ],
     "🙅": [],
     "🙆": [],
@@ -2404,7 +2439,9 @@
         "https://digitaltmuseum.se/011024813563/flaska"
     ],
     "🤦": [],
-    "🤦‍♀️": [],
+    "🤦‍♀️": [
+        "https://digitaltmuseum.se/021046508473/danae-och-guldregnet"
+    ],
     "🤧": [],
     "🤱": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18474&viewType=detailView",
