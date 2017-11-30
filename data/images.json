@@ -2401,8 +2401,13 @@
     "🚾": [
         "https://digitaltmuseum.se/011024612473/stol"
     ],
-    "🚿": [],
-    "🛀": [],
+    "🚿": [
+        "https://digitaltmuseum.se/021016989574/dusch-utombord-pa-robotbaten-hms-vastervik-anvand-for-att-duscha-av-och"
+    ],
+    "🛀": [
+        "https://digitaltmuseum.se/021017101457/emaljering-av-badkar",
+        "https://digitaltmuseum.se/011023694423/badkar"
+    ],
     "🛁": [
         "https://digitaltmuseum.se/011023694423/badkar"
     ],
@@ -2420,17 +2425,29 @@
     "🛐": [
         "https://stockholmskallan.stockholm.se/post/21118"
     ],
-    "🛠": [],
+    "🛠": [
+        "https://digitaltmuseum.se/011024821115/verktygssats"
+    ],
     "🛡": [
         "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=47190&viewType=detailView"
     ],
-    "🛢": [],
+    "🛢": [
+        "https://digitaltmuseum.se/011015058833/mm04086"
+    ],
     "🛣": [],
     "🛤": [],
     "🛥": [],
-    "🛩": [],
-    "🛫": [],
-    "🛬": [],
+    "🛩": [
+        "https://digitaltmuseum.se/021017184237/motiv-flygdagen-pa-bromma-ett-flygplan-lyfter-ett-flygplan-i-luften-motiv"
+    ],
+    "🛫": [
+        "https://digitaltmuseum.se/021017184237/motiv-flygdagen-pa-bromma-ett-flygplan-lyfter-ett-flygplan-i-luften-motiv",
+        "https://digitaltmuseum.se/021017023315/ett-flygplan-ar-pa-vag-att-lyfta-fran-en-landningsbana-runt-landningsbanan"
+    ],
+    "🛬": [
+        "https://digitaltmuseum.se/021015802667/flygplan-under-landning-pa-landsvag",
+        "https://digitaltmuseum.se/021016522163/linjeflyg-in-i-jetaldern-fokker-f-28-forkortar-restiden-med-nara-halften"
+    ],
     "🛰": [],
     "🛳": [],
     "🛴": [],
