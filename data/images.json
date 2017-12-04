@@ -67,14 +67,16 @@
     "↩️": [],
     "↪️": [],
     "∞": [],
-    "⌚️": [
+    "⌚": [
         "https://digitaltmuseum.se/011023807221/fickur"
     ],
-    "⌛️": [
+    "⌛": [
         "https://digitaltmuseum.se/021026254502/timglas",
         "https://stockholmskallan.stockholm.se/post/10163"
     ],
-    "⌨": [],
+    "⌨": [
+        "https://digitaltmuseum.se/021026303464/perforator"
+    ],
     "⏩": [
         "https://digitaltmuseum.se/021026358542/kassettbandspelare"
     ],
@@ -167,7 +169,13 @@
         "https://digitaltmuseum.se/011024821921/flaska"
     ],
     "☦": [],
-    "☪": [],
+    "☪": [
+        "https://digitaltmuseum.se/011024631616/deltagarmarke"
+    ],
+    "⚕️": [
+        "https://digitaltmuseum.se/021016482010/en-statyett-fran-kalmar-industri-och-kopmannaforening-mojligen-forestallande",
+        "https://digitaltmuseum.se/021046498491/asklepios-lakekonstens-gud"
+    ],
     "☭": [
         "https://digitaltmuseum.se/011024813453/batmossa"
     ],
@@ -722,27 +730,37 @@
     "🌑": [
         "https://digitaltmuseum.se/021046500073/solformorkelse"
     ],
-    "🌒": [],
+    "🌒": [
+        "https://digitaltmuseum.se/011023024713/tecken"
+    ],
     "🌓": [],
-    "🌔": [],
+    "🌔": [
+        "https://digitaltmuseum.se/021016981469/hmm10937",
+        "https://digitaltmuseum.se/021016981470/hmm10938"
+    ],
     "🌕": [
-        "https://digitaltmuseum.se/021016981490/hmm10958"
+        "https://digitaltmuseum.se/021016981490/hmm10958",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19412&viewType=detailView"
     ],
     "🌖": [],
     "🌗": [
         "https://digitaltmuseum.se/021017225908/rimfrost-i-halvmane"
     ],
-    "🌘": [],
+    "🌘": [
+        "https://digitaltmuseum.se/021025854373/pask-jul-och-vykort"
+    ],
     "🌙": [
         "https://digitaltmuseum.se/011014491612/kort-gott-nytt-ar-barn-som-balanserar-pa-manskarvan"
     ],
     "🌚": [],
     "🌛": [],
     "🌜": [
-        "https://digitaltmuseum.se/021017225908/rimfrost-i-halvmane"
+        "https://digitaltmuseum.se/021017225908/rimfrost-i-halvmane",
+        "https://digitaltmuseum.se/021025854373/pask-jul-och-vykort"
     ],
     "🌝": [
-        "https://digitaltmuseum.se/021016981490/hmm10958"
+        "https://digitaltmuseum.se/021016981490/hmm10958",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19412&viewType=detailView"
     ],
     "🌞": [
         "https://digitaltmuseum.se/011013844053/kampanjmarke-infor-folkomrostningen-om-karnkraft-1980-linje-3-atomkraft"
@@ -1287,7 +1305,10 @@
         "https://digitaltmuseum.se/011025185597/apa",
         "https://digitaltmuseum.se/011025186298/forebild-for-teckning-apa"
     ],
-    "🐓": [],
+    "🐓": [
+        "https://digitaltmuseum.se/021026960404/paskbonad",
+        "https://digitaltmuseum.se/011025186361/forebild-for-teckning-tupp"
+    ],
     "🐔": [
         "http://collections.smvk.se/carlotta-vkm/web/object/20806"
     ],
@@ -1902,9 +1923,15 @@
     "🔝": [],
     "🔞": [],
     "🔟": [],
-    "🔠": [],
-    "🔡": [],
-    "🔢": [],
+    "🔠": [
+        "https://digitaltmuseum.se/021026688957/rulle"
+    ],
+    "🔡": [
+        "https://digitaltmuseum.se/021027004519/examensprov"
+    ],
+    "🔢": [
+        "https://digitaltmuseum.se/011024613066/raknemaskin"
+    ],
     "🔣": [],
     "🔤": [],
     "🔥": [
