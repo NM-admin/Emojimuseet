@@ -485,8 +485,12 @@
     "🇪🇭": [],
     "🇪🇷": [],
     "🇪🇸": [],
-    "🇪🇹": [],
-    "🇪🇺": [],
+    "🇪🇹": [
+        "https://digitaltmuseum.se/011024438149/stjarnorden"
+    ],
+    "🇪🇺": [
+        "https://digitaltmuseum.se/011023828738/orhange"
+    ],
     "🇫🇮": [
         "https://digitaltmuseum.se/011024429043/bombskarva"
     ],
@@ -494,7 +498,10 @@
     "🇫🇰": [],
     "🇫🇲": [],
     "🇫🇴": [],
-    "🇫🇷": [],
+    "🇫🇷": [
+        "https://digitaltmuseum.se/021026786426/fartygsmodell",
+        "https://digitaltmuseum.se/021025980350/tapet"
+    ],
     "🇬🇦": [],
     "🇬🇧": [],
     "🇬🇩": [],
@@ -1038,7 +1045,8 @@
         "https://digitaltmuseum.se/021016900712/akademiska-lasaret-glansfullt-avslutat-uppsala-1936"
     ],
     "🎖": [
-        "https://digitaltmuseum.se/021016880113/otto-malmborg-juni-1917"
+        "https://digitaltmuseum.se/021016880113/otto-malmborg-juni-1917",
+        "https://digitaltmuseum.se/011024438149/stjarnorden"
     ],
     "🎗": [],
     "🎙": [],
@@ -1129,12 +1137,21 @@
     "🏀": [
         "https://digitaltmuseum.se/021015749235/korp-basket-i-laroverkets-gymnastiksal-hedbergska"
     ],
-    "🏁": [],
+    "🏁": [
+        "https://digitaltmuseum.se/011014314812/enligt-notering-motorcross-kurod-15-9-57"
+    ],
     "🏂": [],
     "🏃": [],
-    "🏄": [],
-    "🏅": [],
-    "🏆": [],
+    "🏄": [
+        "https://digitaltmuseum.se/021017277686/surfing-i-svartan-juli-1956"
+    ],
+    "🏅": [
+        "https://digitaltmuseum.se/021017156337/1m16-a105644",
+        "https://digitaltmuseum.se/021017211834/2002-03-04-as-richthoff-johan-1898-1983-brottare-tungvikt-r-tog-os-guld"
+    ],
+    "🏆": [
+        "https://digitaltmuseum.se/011014322345/pojkfotbollsvinnare"
+    ],
     "🏇": [
         "http://collections.smvk.se/carlotta-om/web/object/108601",
         "https://digitaltmuseum.se/021046508166/valkyria"
