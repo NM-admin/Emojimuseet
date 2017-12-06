@@ -945,9 +945,17 @@
         "https://digitaltmuseum.se/011023832693/glass",
         "https://digitaltmuseum.se/021016742867/konsum-alfa-festen-i-folkparken-den-25-augusti-1943"
     ],
-    "🍧": [],
-    "🍨": [],
-    "🍩": [],
+    "🍧": [
+        "https://digitaltmuseum.se/011023832693/glass",
+        "https://digitaltmuseum.se/021026550271/t-shirt"
+    ],
+    "🍨": [
+        "https://digitaltmuseum.se/011023832693/glass",
+        "https://digitaltmuseum.se/021026550271/t-shirt"
+    ],
+    "🍩": [
+        "https://digitaltmuseum.se/021016243072/ett-bord-uppdukat-med-olika-bakverk-fran-kps-bageri"
+    ],
     "🍪": [
         "https://digitaltmuseum.se/011014309207/umfa53240-001186"
     ],
@@ -960,7 +968,10 @@
     "🍭": [
         "https://digitaltmuseum.se/021016955415/tre-barn-i-fargglada-regnklader-star-i-en-trappa-med-varsin-godisklubb"
     ],
-    "🍮": [],
+    "🍮": [
+        "https://digitaltmuseum.se/021026157383/ask",
+        "https://digitaltmuseum.se/011025173223/forpackningar-jello"
+    ],
     "🍯": [
         "https://digitaltmuseum.se/021016320304/honungsburkar-1940-akta-svensk-honung"
     ],
