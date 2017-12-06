@@ -494,7 +494,8 @@
         "https://digitaltmuseum.se/011023828738/orhange"
     ],
     "🇫🇮": [
-        "https://digitaltmuseum.se/011024429043/bombskarva"
+        "https://digitaltmuseum.se/011024429043/bombskarva",
+        "https://digitaltmuseum.se/011013842961/aland-en-sorts-spang-har-lagts-over-sprickor-i-isen"
     ],
     "🇫🇯": [],
     "🇫🇰": [],
@@ -877,7 +878,7 @@
     ],
     "🍅": [],
     "🍆": [
-        "https://digitaltmuseum.se/021026381963/frimarke"
+        "http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=34831&viewType=detailView"
     ],
     "🍇": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17252&viewType=detailView",
@@ -902,7 +903,7 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18501&viewType=detailView"
     ],
     "🍑": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17252&viewType=detailView"
+        "https://digitaltmuseum.se/021026705653/glasskulptur"
     ],
     "🍒": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=20384&viewType=detailView"
@@ -1149,7 +1150,9 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17995&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18123&viewType=detailView"
     ],
-    "🎼": [],
+    "🎼": [
+        "http://musikverket.se/svensktvisarkiv/files/2014/02/Alice_Tegner_autograf_Betlehems_stjarna.pdf"
+    ],
     "🎽": [],
     "🎾": [
         "https://digitaltmuseum.se/021026487219/datorspel"
@@ -1163,7 +1166,9 @@
     "🏁": [
         "https://digitaltmuseum.se/011014314812/enligt-notering-motorcross-kurod-15-9-57"
     ],
-    "🏂": [],
+    "🏂": [
+        "http://museum.helsingborg.se/web/object/807614"
+    ],
     "🏃": [],
     "🏄": [
         "https://digitaltmuseum.se/021017277686/surfing-i-svartan-juli-1956"
