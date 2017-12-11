@@ -1673,9 +1673,18 @@
         "https://digitaltmuseum.se/011014544838/kvinnlig-polis-i-huskvarna-pa-1960-talet"
     ],
     "👯": [],
-    "👰": [],
-    "👱": [],
-    "👲": [],
+    "👰": [
+        "https://digitaltmuseum.se/021016024491/mohippa-pa-forumtorget-uppsala-2011"
+    ],
+    "👱": [
+        "https://digitaltmuseum.se/021016466407/blond-pojke-med-en-cigarett-i-munnen-som-haller-upp-en-nyfangad-fisk"
+    ],
+    "👱‍♀️": [
+        "https://digitaltmuseum.se/011013848687/blond-flicka-i-ljusbla-klanning-brostnal-med-svenska-flaggan"
+    ],
+    "👲": [
+        "http://collections.smvk.se/carlotta-om/web/object/201588"
+    ],
     "👳": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177816&viewType=detailView"
     ],
@@ -1688,8 +1697,12 @@
     "👶": [
         "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137836&viewType=detailView"
     ],
-    "👷": [],
-    "👸": [],
+    "👷": [
+        "https://stockholmskallan.stockholm.se/post/23965"
+    ],
+    "👸": [
+        "https://stockholmskallan.stockholm.se/post/12443"
+    ],
     "👹": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=48709&viewType=detailView"
     ],
@@ -2080,7 +2093,9 @@
     "🖋": [],
     "🖌": [],
     "🖍": [],
-    "🖐": [],
+    "🖐": [
+        "https://digitaltmuseum.se/021016022773/mangafestival-uppsala-2011"
+    ],
     "🖕": [],
     "🖖": [
         "https://digitaltmuseum.se/011023811475/docka"
@@ -2132,16 +2147,19 @@
         "https://stockholmskallan.stockholm.se/post/14929"
     ],
     "😂": [
-        "https://digitaltmuseum.se/021015607958/tre-glada-barn"
+        "https://digitaltmuseum.se/021015607958/tre-glada-barn",
+        "https://stockholmskallan.stockholm.se/post/12443"
     ],
     "😃": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18490&viewType=detailView"
     ],
     "😄": [
-        "https://stockholmskallan.stockholm.se/post/14929"
+        "https://stockholmskallan.stockholm.se/post/14929",
+        "https://stockholmskallan.stockholm.se/post/12443"
     ],
     "😅": [
-        "https://digitaltmuseum.se/021015607958/tre-glada-barn"
+        "https://digitaltmuseum.se/021015607958/tre-glada-barn",
+        "https://stockholmskallan.stockholm.se/post/12443"
     ],
     "😆": [
         "https://digitaltmuseum.se/021015607958/tre-glada-barn",
@@ -2286,7 +2304,8 @@
     "😼": [],
     "😽": [],
     "😾": [
-        "https://digitaltmuseum.se/011024652575/frimarke"
+        "https://digitaltmuseum.se/011024652575/frimarke",
+        "https://stockholmskallan.stockholm.se/post/14525"
     ],
     "😿": [],
     "🙀": [
