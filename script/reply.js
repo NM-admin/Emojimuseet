@@ -4,7 +4,7 @@ const Images = require('../src/images');
 const Twitter = require('../src/twitter');
 const ReplyTweet = require('../src/tweets/reply_tweet');
 const RequestTweet = require('../src/tweets/request_tweet');
-const Facebook = require('../src/facebook');
+//const Facebook = require('../src/facebook');
 
 let stream = Twitter.stream();
 
