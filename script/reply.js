@@ -24,7 +24,7 @@ stream.on('error', (payload) => {
   console.error(payload);
 });
 
-
+/*
 
 const http = require('http');
 const Bot = require('messenger-bot');
@@ -52,5 +52,7 @@ bot.on('message', (payload, reply) => {
   });
 });
 
-bot.middleware().listen(443);
+bot.middleware();
 console.log('Echo bot server running at port 443.');
+
+*/
