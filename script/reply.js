@@ -52,5 +52,5 @@ bot.on('message', (payload, reply) => {
   });
 });
 
-http.createServer(bot.middleware()).listen(443);
+bot.middleware().listen(443);
 console.log('Echo bot server running at port 443.');
