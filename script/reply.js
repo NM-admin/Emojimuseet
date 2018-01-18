@@ -44,7 +44,9 @@ bot.on('message', (payload, reply) => {
   let image = new Images().getFromText(payload.message.text);
   if (!image) { return; }
   console.log(image);
-  let text = `${image.key} ${image.url}`;
+  if image.url == 'undefined' {
+      image.url = 'Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?';
+  }
   console.log(text);
 
   bot.getProfile(payload.sender.id, (err, profile) => {
