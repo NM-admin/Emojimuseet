@@ -40,7 +40,7 @@ bot.on('error', (err) => {
 
 bot.on('message', (payload, reply) => {
   //let text = payload.message.text; //change this to emoji
-  let text = new Images().getFromText(payload);
+  let text = new Images().getFromText(payload.message.text);
   if (!text) { return; }
 
   bot.getProfile(payload.sender.id, (err, profile) => {
