@@ -40,22 +40,25 @@ bot.on('error', (err) => {
 
 bot.on('message', (payload, reply) => {
   //let text = payload.message.text; //change this to emoji
-  console.log(payload.message.text);
-  let image = new Images().getFromText(payload.message.text);
-  if (!image) { return; }
-  console.log(image);
-  let text = `${image.key} ${image.url}`;
-  console.log(text);
+  if payload.message.text {
+    console.log(payload.message.text);
+    let image = new Images().getFromText(payload.message.text);
+    if (!image) { return; }
+    console.log(image);
+    let text = `${image.key} ${image.url}`;
+    console.log(text);
 
-  bot.getProfile(payload.sender.id, (err, profile) => {
-    if (err) throw err;
-
-    reply({ text }, (err) => {
+    bot.getProfile(payload.sender.id, (err, profile) => {
       if (err) throw err;
 
-      console.log(`Echoed back to ${profile.first_name} ${profile.last_name}: ${text}`);
-    });
-  });
+      reply({ text }, (err) => {
+        if (err) throw err;
+
+        console.log(`Echoed back to ${profile.first_name} ${profile.last_name}: ${text}`);
+      });
+    });  
+  }
+
 });
 
 http.createServer(bot.middleware()).listen(3000);
