@@ -40,7 +40,7 @@ bot.on('error', (err) => {
 
 bot.on('message', (payload, reply) => {
   //let text = payload.message.text; //change this to emoji
-  if payload.message.text {
+  if payload.message.text !== undefined {
     console.log(payload.message.text);
     let image = new Images().getFromText(payload.message.text);
     if (!image) { return; }
@@ -56,7 +56,7 @@ bot.on('message', (payload, reply) => {
 
         console.log(`Echoed back to ${profile.first_name} ${profile.last_name}: ${text}`);
       });
-    });  
+    });
   }
 
 });
