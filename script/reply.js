@@ -41,9 +41,11 @@ bot.on('error', (err) => {
 bot.on('message', (payload, reply) => {
   //let text = payload.message.text; //change this to emoji
   console.log(payload.message.text);
-  let text = new Images().getFromText(payload.message.text);
+  let image = new Images().getFromText(payload.message.text);
+  if (!image) { return; }
+  console.log(image);
+  let text = image.key . " " . image.url;
   console.log(text);
-  if (!text) { return; }
 
   bot.getProfile(payload.sender.id, (err, profile) => {
     if (err) throw err;
