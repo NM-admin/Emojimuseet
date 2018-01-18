@@ -41,7 +41,7 @@ bot.on('error', (err) => {
 bot.on('message', (payload, reply) => {
   //let text = payload.message.text; //change this to emoji
   console.log(payload.message);
-  if (typeof payload.message.text === undefined) {
+  if (payload.message.text == undefined) {
     console.log('ingen text i meddelandet');
     return;
   }
@@ -51,7 +51,7 @@ bot.on('message', (payload, reply) => {
     if (!image) { return; }
     console.log(image);
     let text = '';
-    if (typeof image.url === undefined) {
+    if (image.url == undefined) {
       text = `${image.key} Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?`;
     }
     else {
