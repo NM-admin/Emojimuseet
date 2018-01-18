@@ -42,13 +42,19 @@ bot.on('message', (payload, reply) => {
   //let text = payload.message.text; //change this to emoji
   console.log(payload.message);
   if (typeof payload.message.text === undefined) {
-    payload.message.text = 'Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?';
+    console.log('ingen text i meddelandet');
+    return;
   }
   console.log(payload.message.text);
   let image = new Images().getFromText(payload.message.text);
   if (!image) { return; }
   console.log(image);
-  let text = `${image.key} ${image.url}`;
+  if (typeof image.url === undefined) {
+    let text = `${image.key} Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?`;
+  }
+  else {
+    let text = `${image.key} ${image.url}`;
+  }
   console.log(text);
 
   bot.getProfile(payload.sender.id, (err, profile) => {
