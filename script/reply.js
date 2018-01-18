@@ -41,6 +41,9 @@ bot.on('error', (err) => {
 bot.on('message', (payload, reply) => {
   //let text = payload.message.text; //change this to emoji
     console.log(payload.message);
+    if typeof payload.message.text === undefined {
+      payload.message.text = 'Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?';
+    }
     console.log(payload.message.text);
     let image = new Images().getFromText(payload.message.text);
     if (!image) { return; }
