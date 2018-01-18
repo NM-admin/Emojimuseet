@@ -49,11 +49,12 @@ bot.on('message', (payload, reply) => {
   let image = new Images().getFromText(payload.message.text);
   if (!image) { return; }
   console.log(image);
+  let text = '';
   if (typeof image.url === undefined) {
-    let text = `${image.key} Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?`;
+    text = `${image.key} Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?`;
   }
   else {
-    let text = `${image.key} ${image.url}`;
+    text = `${image.key} ${image.url}`;
   }
   console.log(text);
 
