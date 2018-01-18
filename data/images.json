@@ -1109,11 +1109,21 @@
         "https://digitaltmuseum.se/021016880113/otto-malmborg-juni-1917",
         "https://digitaltmuseum.se/011024438149/stjarnorden"
     ],
-    "🎗": [],
-    "🎙": [],
-    "🎚": [],
-    "🎛": [],
-    "🎞": [],
+    "🎗": [
+        "https://digitaltmuseum.se/021025728144/rockslagsmarke"
+    ],
+    "🎙": [
+        "https://digitaltmuseum.se/021026312945/mikrofon"
+    ],
+    "🎚": [
+        "https://digitaltmuseum.se/021025590811/mixerbord"
+    ],
+    "🎛": [
+        "https://digitaltmuseum.se/021026312394/mikrofonmixer"
+    ],
+    "🎞": [
+        "https://digitaltmuseum.se/011014541843/jm-2011-1-277-4"
+    ],
     "🎟": [
         "https://digitaltmuseum.se/011024769359/biljett"
     ],
@@ -1126,11 +1136,21 @@
     "🎢": [
         "https://digitaltmuseum.se/021016315204/luftskepp-typ-parseval-p-n-29-med-motor-siemens-halske-80-hk-luftskeppet"
     ],
-    "🎣": [],
-    "🎤": [],
-    "🎥": [],
-    "🎦": [],
-    "🎧": [],
+    "🎣": [
+        "https://digitaltmuseum.se/021016687545/gaddmete-fran-roddsnipa"
+    ],
+    "🎤": [
+        "https://digitaltmuseum.se/021017316995/militar-vid-mikrofon"
+    ],
+    "🎥": [
+        "https://digitaltmuseum.se/021026305610/filmkamera"
+    ],
+    "🎦": [
+        "https://digitaltmuseum.se/021026305610/filmkamera"
+    ],
+    "🎧": [
+        "https://digitaltmuseum.se/011025168394/horlur"
+    ],
     "🎨": [
         "https://commons.wikimedia.org/wiki/Category:Images_from_the_Nationalmuseum_Stockholm"
     ],
@@ -1141,12 +1161,26 @@
         "https://digitaltmuseum.se/021016760044/furuviksparken-invigdes-1936-cirkus-folkdanslaget-furuviks-ungdomslag-och",
         "https://digitaltmuseum.se/021016955362/cirkusbjorn-balanserar-pa-boll-cirkus-scott-besoker-sabbatsbergs-sjukhu"
     ],
-    "🎫": [],
-    "🎬": [],
-    "🎭": [],
-    "🎮": [],
-    "🎯": [],
-    "🎰": [],
+    "🎫": [
+        "https://digitaltmuseum.se/021026077982/biljett",
+        "https://digitaltmuseum.se/011023864359/biljett"
+    ],
+    "🎬": [
+        "https://digitaltmuseum.se/021027310505/klappa"
+    ],
+    "🎭": [
+        "https://digitaltmuseum.se/021016828418/portratt-av-skadespelerskan-inga-tidblad-1901-1975-i-1700-talsklanning"
+    ],
+    "🎮": [
+        "https://digitaltmuseum.se/021026360518/joystick-till-tv-spel",
+        "https://digitaltmuseum.se/021026487214/handkontroll"
+    ],
+    "🎯": [
+        "https://digitaltmuseum.se/021016181973/contan-pub-28-februari-1967-hotell-continental"
+    ],
+    "🎰": [
+        "https://digitaltmuseum.se/011025179682/spelautomat"
+    ],
     "🎱": [
         "https://digitaltmuseum.se/021016191098/biljard-fritidssysselsattning-1-februari-1966-fyra-unga-pojkar-spelar-biljard"
     ],
@@ -1190,7 +1224,9 @@
     "🎼": [
         "http://musikverket.se/svensktvisarkiv/files/2014/02/Alice_Tegner_autograf_Betlehems_stjarna.pdf"
     ],
-    "🎽": [],
+    "🎽": [
+        "https://digitaltmuseum.se/021027124439/traningstroja"
+    ],
     "🎾": [
         "https://digitaltmuseum.se/021026487219/datorspel"
     ],
@@ -1206,7 +1242,9 @@
     "🏂": [
         "http://museum.helsingborg.se/web/object/807614"
     ],
-    "🏃": [],
+    "🏃": [
+        "https://digitaltmuseum.se/021016437417/tjejlopp-tjejmilen-2011-malgang-och-picnic-efterat"
+    ],
     "🏄": [
         "https://digitaltmuseum.se/021017277686/surfing-i-svartan-juli-1956"
     ],
@@ -1228,9 +1266,14 @@
         "https://digitaltmuseum.se/021015655995/rugby-sverige-sovjet-i-vanersborg",
         "https://digitaltmuseum.se/021015755503/rugby-en-sport-som-passar-flottans-gossar"
     ],
-    "🏊": [],
-    "🏊‍♀️": [],
-    "🏋": [],
+    "🏊": [
+        "https://digitaltmuseum.se/021015815881/simtavlingar-i-gamla-badhuset-vid-kyrkogatan-aven-simhopp-av-det-spexigare",
+        "https://digitaltmuseum.se/021015789324/simtavlingar-i-timra-simhall",
+        "https://digitaltmuseum.se/021015789999/bildserie-fran-regionmasterskapet-i-expressens-sum-sim-i-timra-simhall"
+    ],
+    "🏊‍♀️": [
+        "https://digitaltmuseum.se/021015789999/bildserie-fran-regionmasterskapet-i-expressens-sum-sim-i-timra-simhall"
+    ],
     "🏋️": [
         "https://digitaltmuseum.se/011014314562/enligt-notering-tyngdlyftare-23-5-57",
         "https://digitaltmuseum.se/021016186014/kraftsport-sm-14-december-1976"
@@ -1239,14 +1282,31 @@
         "https://digitaltmuseum.se/011014314562/enligt-notering-tyngdlyftare-23-5-57",
         "https://digitaltmuseum.se/021016186014/kraftsport-sm-14-december-1976"
     ],
-    "🏌": [],
-    "🏍": [],
-    "🏎": [],
-    "🏏": [],
-    "🏐": [],
-    "🏑": [],
-    "🏒": [],
-    "🏓": [],
+    "🏌": [
+        "https://digitaltmuseum.se/011014628182/pojkar-med-golfklubbor-och-golfbag-i-skottsund"
+    ],
+    "🏍": [
+        "https://digitaltmuseum.se/021016134360/en-kvinna-pa-motorcykel-registreringsnr-t1642"
+    ],
+    "🏎": [
+        "https://digitaltmuseum.se/021016544261/anderstorp-20juni1977",
+        "https://digitaltmuseum.se/021016438152/anderstorp18juni1973"
+    ],
+    "🏏": [
+        "https://digitaltmuseum.se/021015688370/fyra-flickor-spelar-kricket-i-tradgarden"
+    ],
+    "🏐": [
+        "https://digitaltmuseum.se/021016186254/volleyboll-24-mars-1980"
+    ],
+    "🏑": [
+        "https://digitaltmuseum.se/021016186332/s-spelar-landbandy-31-mars-1981"
+    ],
+    "🏒": [
+        "https://digitaltmuseum.se/021025881381/forlaga"
+    ],
+    "🏓": [
+        "https://digitaltmuseum.se/021026479716/frimarke"
+    ],
     "🏔": [],
     "🏕": [],
     "🏖": [],
