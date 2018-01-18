@@ -45,28 +45,30 @@ bot.on('message', (payload, reply) => {
     console.log('ingen text i meddelandet');
     return;
   }
-  console.log(payload.message.text);
-  let image = new Images().getFromText(payload.message.text);
-  if (!image) { return; }
-  console.log(image);
-  let text = '';
-  if (typeof image.url === undefined) {
-    text = `${image.key} Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?`;
-  }
   else {
-    text = `${image.key} ${image.url}`;
-  }
-  console.log(text);
+    console.log(payload.message.text);
+    let image = new Images().getFromText(payload.message.text);
+    if (!image) { return; }
+    console.log(image);
+    let text = '';
+    if (typeof image.url === undefined) {
+      text = `${image.key} Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?`;
+    }
+    else {
+      text = `${image.key} ${image.url}`;
+    }
+    console.log(text);
 
-  bot.getProfile(payload.sender.id, (err, profile) => {
-    if (err) throw err;
-
-    reply({ text }, (err) => {
+    bot.getProfile(payload.sender.id, (err, profile) => {
       if (err) throw err;
 
-      console.log(`Echoed back to ${profile.first_name} ${profile.last_name}: ${text}`);
+      reply({ text }, (err) => {
+        if (err) throw err;
+
+        console.log(`Echoed back to ${profile.first_name} ${profile.last_name}: ${text}`);
+      });
     });
-  });
+  }
 });
 
 http.createServer(bot.middleware()).listen(3000);
