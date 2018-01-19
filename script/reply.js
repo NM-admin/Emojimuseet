@@ -61,15 +61,16 @@ bot.on('message', (payload, reply) => {
     if (!image) {
       text = 'Ditt meddelande innehöll ingen emoji. Skicka en emoji så får du ett foto eller föremål från ett svenskt museum till svar.';
     }
-
-    if (image.url == undefined) {
-      text = `${image.key} Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?`;
-    }
     else {
-      text = `${image.key} ${image.url}`;
+      if (image.url == undefined) {
+        text = `${image.key} Tyvärr! 🤔😞😬 Kanske hittar du något på https://digitaltmuseum.se?`;
+      }
+      else {
+        text = `${image.key} ${image.url}`;
+      }
     }
     console.log(text);
-
+    
     bot.getProfile(payload.sender.id, (err, profile) => {
       if (err) throw err;
 
