@@ -80,10 +80,12 @@
         "https://digitaltmuseum.se/021026303464/perforator"
     ],
     "⏩": [
-        "https://digitaltmuseum.se/021026358542/kassettbandspelare"
+        "https://digitaltmuseum.se/021026358542/kassettbandspelare",
+        "https://digitaltmuseum.se/021026362047/kassettbandspelare"
     ],
     "⏪": [
-        "https://digitaltmuseum.se/021026358542/kassettbandspelare"
+        "https://digitaltmuseum.se/021026358542/kassettbandspelare",
+        "https://digitaltmuseum.se/021026362047/kassettbandspelare"
     ],
     "⏫": [],
     "⏬": [],
@@ -107,37 +109,63 @@
         "https://digitaltmuseum.se/021026254502/timglas",
         "https://stockholmskallan.stockholm.se/post/10163"
     ],
-    "⏸": [],
+    "⏸": [
+        "https://digitaltmuseum.se/021026362047/kassettbandspelare",
+        "https://digitaltmuseum.se/021026361372/kassettdack"
+    ],
     "⏹": [
-        "https://digitaltmuseum.se/021026360620/kassettbandspelare"
+        "https://digitaltmuseum.se/021026360620/kassettbandspelare",
+        "https://digitaltmuseum.se/021026359129/kassettbandspelare"
     ],
     "⏺": [
         "https://digitaltmuseum.se/021026358542/kassettbandspelare"
     ],
-    "Ⓜ️": [],
-    "▪️": [],
-    "▫️": [],
+    "Ⓜ️": [
+        "http://sparvagsmuseet.sl.se/databas/st-lazare-metrostation-paris-57963/"
+    ],
+    "▪️": [
+        "https://digitaltmuseum.se/021026700944/askfat"
+    ],
+    "▫️": [
+        "https://digitaltmuseum.se/021026688267/nasduk"
+    ],
     "▶️": [
         "https://digitaltmuseum.se/021026360620/kassettbandspelare",
         "https://digitaltmuseum.se/021026358542/kassettbandspelare"
     ],
-    "◀️": [],
-    "◻️": [],
-    "◼️": [],
-    "◽️": [],
-    "◾️": [],
+    "◀️": [
+        "https://digitaltmuseum.se/011024241606/berlock"
+    ],
+    "◻️": [
+        "https://digitaltmuseum.se/021026688267/nasduk"
+    ],
+    "◼️": [
+        "https://digitaltmuseum.se/021026700944/askfat"
+    ],
+    "◽️": [
+        "https://digitaltmuseum.se/021026688267/nasduk"
+    ],
+    "◾️": [
+        "https://digitaltmuseum.se/021026700944/askfat"
+    ],
     "☀️": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=115044&viewType=detailView"
     ],
-    "☁️": [],
+    "☁️": [
+        "https://digitaltmuseum.se/011023865051/flaska"
+    ],
     "☂️": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=24345&viewType=detailView",
         "https://stockholmskallan.stockholm.se/post/11655",
         "https://stockholmskallan.stockholm.se/post/19217",
         "https://stockholmskallan.stockholm.se/post/9740"
     ],
-    "☃": [],
-    "☄": [],
+    "☃": [
+        "https://digitaltmuseum.se/021016848897/studentstaden-snogubbe-uppsala-1954"
+    ],
+    "☄": [
+        "https://digitaltmuseum.se/021017240037/nymanbolagen-motorcykelforare-vid-motorcykel-modell-komet-uppsala-1952"
+    ],
     "☎️": [
         "https://digitaltmuseum.se/021026360642/telefon"
     ],
@@ -170,7 +198,9 @@
     "☣": [
         "https://digitaltmuseum.se/011024821921/flaska"
     ],
-    "☦": [],
+    "☦": [
+        "https://digitaltmuseum.se/011024262670/krucifix"
+    ],
     "☪": [
         "https://digitaltmuseum.se/011024631616/deltagarmarke"
     ],
@@ -187,27 +217,63 @@
     "☮️": [
         "https://digitaltmuseum.se/011013837172/firande-av-freden-1945-pa-kungsgatan-stockholm"
     ],
-    "☯": [],
+    "☯": [
+        "https://digitaltmuseum.se/011023821006/rockslagsmarke"
+    ],
     "🐾": [
       "https://digitaltmuseum.se/021016830748/arkeologisk-schaktningsovervakning-tassavtryck-i-tegel-a37-gravkammare"
     ],
-    "☸": [],
-    "☹": [],
-    "☺️": [],
-    "♀": [],
-    "♂": [],
-    "♈️": [],
-    "♉️": [],
-    "♊️": [],
-    "♋️": [],
-    "♌️": [],
-    "♍️": [],
-    "♎️": [],
-    "♏️": [],
-    "♐️": [],
-    "♑️": [],
-    "♒️": [],
-    "♓️": [],
+    "☸": [
+        "http://collections.smvk.se/carlotta-em/web/object/1023870"
+    ],
+    "☹": [
+        "https://digitaltmuseum.se/021026949522/teckning"
+    ],
+    "☺️": [
+        "https://digitaltmuseum.se/021026949522/teckning"
+    ],
+    "♀": [
+        "https://digitaltmuseum.se/011025191126/cykel"
+    ],
+    "♂": [
+        "https://digitaltmuseum.se/011025094067/gemm-avtryck-mars-ares"
+    ],
+    "♈️": [
+        "https://digitaltmuseum.se/021015761823/agare-1959-73-sociedad-transoceanica-canopus-s-a-hemort-peiraievs"
+    ],
+    "♉️": [
+        "https://digitaltmuseum.se/021015768284/agare-1960-77-finska-angfartygs-ab-hemort-helsingfors"
+    ],
+    "♊️": [
+        "https://digitaltmuseum.se/021015763794/agare-1978-81-rederi-kb-olsson-hemort-blido"
+    ],
+    "♋️": [
+        "https://digitaltmuseum.se/021017169785/skara-kvarteret-kraftan-fynd-fran-franciskanerklostret-gravhallar-m-m-h"
+    ],
+    "♌️": [
+        "https://digitaltmuseum.se/021015765441/agare-1947-67-ellermanas-wilson-line-ltd-hemort-hull"
+    ],
+    "♍️": [
+        "https://digitaltmuseum.se/021015555570/iv548"
+    ],
+    "♎️": [
+        "https://digitaltmuseum.se/021015765477/agare-1950-66-rederi-ab-iris-hemort-stockholm"
+    ],
+    "♏️": [
+        "https://digitaltmuseum.se/011015423316/fo207248dia"
+    ],
+    "♐️": [
+        "https://digitaltmuseum.se/021016026218/kv-skytten-hallkista-utgravning-1973"
+    ],
+    "♑️": [
+        "https://digitaltmuseum.se/011015423317/fo207251dia"
+    ],
+    "♒️": [
+        "https://digitaltmuseum.se/011015413796/fo186006-14af"
+    ],
+    "♓️": [
+        "https://digitaltmuseum.se/021015955714/pisces"
+    ],
     "♠️": [
         "https://digitaltmuseum.se/011024262738/kortlek",
         "https://digitaltmuseum.se/021026850168/kortlek"
@@ -415,7 +481,9 @@
     "⭐️": [
         "http://collections.smvk.se/carlotta-em/web/object/1060618"
     ],
-    "⭕️": [],
+    "⭕️": [
+        "https://digitaltmuseum.se/021016195059/skylten-till-salu-30-sept-1967"
+    ],
     "〰️": [],
     "〽️": [],
     "㊗️": [],
@@ -425,7 +493,9 @@
     "🅰️": [],
     "🅱️": [],
     "🅾️": [],
-    "🅿️": [],
+    "🅿️": [
+        "https://digitaltmuseum.se/021016195059/skylten-till-salu-30-sept-1967"
+    ],
     "🆎": [],
     "🆑": [],
     "🆒": [],
@@ -434,7 +504,9 @@
     "🆕": [],
     "🆖": [],
     "🆗": [],
-    "🆘": [],
+    "🆘": [
+        "https://digitaltmuseum.se/021026471820/videofilm"
+    ],
     "🆙": [],
     "🆚": [],
     "🇦🇨": [],
