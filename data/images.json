@@ -2572,7 +2572,7 @@
         "https://digitaltmuseum.se/021015607958/tre-glada-barn",
         "https://digitaltmuseum.se/021046508585/en-parisiska"
     ],
-    "😇": [],
+    "😇": ["http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=160089&viewType=detailView", ],
     "😈": [],
     "🤚": [
         "https://digitaltmuseum.se/021046508479/konstnarens-moder"
@@ -2670,7 +2670,7 @@
     "😤": [],
     "😥": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17323&viewType=detailView",
-        "https://digitaltmuseum.se/011013981251/barnportratt-gratande-pojke-per-arne-mattsson-uppsala-1966"
+        "https://digitaltmuseum.se/011013981251/barnportratt-gratande-pojke-per-arne-mattsson-uppsala-1966", "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19074&viewType=detailView"
     ],
     "😦": [],
     "😧": [],
