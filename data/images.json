@@ -158,7 +158,8 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=24345&viewType=detailView",
         "https://stockholmskallan.stockholm.se/post/11655",
         "https://stockholmskallan.stockholm.se/post/19217",
-        "https://stockholmskallan.stockholm.se/post/9740"
+        "https://stockholmskallan.stockholm.se/post/9740",
+        "https://digitaltmuseum.se/021016323210/reklamaffisch"
     ],
     "☃": [
         "https://digitaltmuseum.se/021016848897/studentstaden-snogubbe-uppsala-1954"
@@ -845,17 +846,38 @@
     "🌅": [],
     "🌆": [],
     "🌇": [],
-    "🌈": [],
-    "🌉": [],
+    "🌈": [
+        "https://digitaltmuseum.se/021017336921/roda-kor-formodligen-vastra-tunhem"
+    ],
+    "🌉": [
+        "https://digitaltmuseum.se/021016300110/porjus-kraftverk-hangbro-stora-alvfaran"
+    ],
     "🌊": [
         "https://digitaltmuseum.se/011023736442/oljemalning"
     ],
-    "🌋": [],
-    "🌌": [],
-    "🌍": [],
-    "🌎": [],
-    "🌏": [],
-    "🌐": [],
+    "🌋": [
+        "https://digitaltmuseum.se/021025692096/hamnbild"
+    ],
+    "🌌": [
+        "https://digitaltmuseum.se/021025649611/himmelsglob"
+    ],
+    "🌍": [
+        "https://digitaltmuseum.se/021026149476/jordglob"
+    ],
+    "🌎": [
+        "https://digitaltmuseum.se/021025830250/jordglob"
+    ],
+    "🌏": [
+        "https://digitaltmuseum.se/011024828962/jordglob",
+        "https://digitaltmuseum.se/021025522073/jordglob",
+        "https://digitaltmuseum.se/021027023112/jordglob",
+        "https://digitaltmuseum.se/021027136037/jordglob"
+    ],
+    "🌐": [
+        "https://digitaltmuseum.se/011024828962/jordglob",
+        "https://digitaltmuseum.se/021025522073/jordglob",
+        "https://digitaltmuseum.se/021027136037/jordglob"
+    ],
     "🌑": [
         "https://digitaltmuseum.se/021046500073/solformorkelse"
     ],
@@ -900,7 +922,9 @@
     "🌠": [
         "https://digitaltmuseum.se/021026545097/brevkort"
     ],
-    "🌡": [],
+    "🌡": [
+        "https://digitaltmuseum.se/011014318697/flicka-med-termometer-1-februari-1960"
+    ],
     "🌤": [],
     "🌥": [],
     "🌦": [],
@@ -912,7 +936,9 @@
     "🌨": [
         "https://digitaltmuseum.se/011023736442/oljemalning"
     ],
-    "🌩": [],
+    "🌩": [
+        "https://digitaltmuseum.se/021017011049/hmm42846"
+    ],
     "🌪": [],
     "🌫": [],
     "🌬": [
@@ -926,8 +952,12 @@
     ],
     "🌯": [],
     "🌰": [],
-    "🌱": [],
-    "🌲": [],
+    "🌱": [
+        "https://digitaltmuseum.se/021017370066/plantering-av-skog-i-mellansjo-ramsjo-socken"
+    ],
+    "🌲": [
+        "https://digitaltmuseum.se/021016681016/foto-av-skogsparti-i-sol"
+    ],
     "🌳": [],
     "🌴": [
         "http://collections.smvk.se/carlotta-em/web/object/1556362",
@@ -1108,7 +1138,7 @@
     ],
     "🍹": [],
     "🍺": [
-        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22275&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22275&viewType=detailView",
         "https://digitaltmuseum.se/011023078699/olstop"
     ],
     "🍻": [
@@ -1158,7 +1188,9 @@
     ],
     "🎊": [],
     "🎋": [],
-    "🎌": [],
+    "🎌": [
+        "https://digitaltmuseum.se/011024831424/flagga"
+    ],
     "🎍": [],
     "🎎": [
         "http://collections.smvk.se/carlotta-em/web/object/1360991",
@@ -1567,7 +1599,7 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=51666&viewType=detailView"
     ],
     "🐒": [
-        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18410&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18410&viewType=detailView",
         "https://digitaltmuseum.se/011025185597/apa",
         "https://digitaltmuseum.se/011025186298/forebild-for-teckning-apa"
     ],
@@ -1576,7 +1608,8 @@
         "https://digitaltmuseum.se/011025186361/forebild-for-teckning-tupp"
     ],
     "🐔": [
-        "http://collections.smvk.se/carlotta-vkm/web/object/20806"
+        "http://collections.smvk.se/carlotta-vkm/web/object/20806",
+        "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=15471&viewType=detailView"
     ],
     "🐕": [
         "https://digitaltmuseum.se/011014307382/text-pa-kortets-baksida-alban-tegner-med-pelle-fodd-1862",
@@ -1649,7 +1682,7 @@
         "https://digitaltmuseum.se/011025178713/kyckling"
     ],
     "🐦": [
-        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18410&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18410&viewType=detailView",
         "https://digitaltmuseum.se/011025176249/skolplansch"
     ],
     "🐧": [
@@ -1718,7 +1751,7 @@
         "https://digitaltmuseum.se/011014490320/joel-johansson-salvik-fiskebackskil"
     ],
     "🐵": [
-        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18410&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18410&viewType=detailView",
         "https://digitaltmuseum.se/011025185597/apa",
         "https://digitaltmuseum.se/011025186298/forebild-for-teckning-apa"
     ],
@@ -1853,7 +1886,8 @@
         "https://digitaltmuseum.se/021026154020/sandal"
     ],
     "👢": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137720&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137720&viewType=detailView",
+        "https://digitaltmuseum.se/021016323210/reklamaffisch"
     ],
     "👣": [
         "https://digitaltmuseum.se/021016818421/hmm4018"
@@ -1974,7 +2008,9 @@
     "👮🏻‍♀️": [
         "https://digitaltmuseum.se/011014544838/kvinnlig-polis-i-huskvarna-pa-1960-talet"
     ],
-    "👯": [],
+    "👯": [
+        "https://digitaltmuseum.se/021016741567/emy-agren-prinsessan-snovit-repetition-till-baletten-furuviksbarnen-den"
+    ],
     "👰": [
         "https://digitaltmuseum.se/021016024491/mohippa-pa-forumtorget-uppsala-2011"
     ],
@@ -1997,7 +2033,7 @@
         "https://digitaltmuseum.se/011013849545/eldslagning-bullermor-stina-persdotter-slar-gnistor-med-ett-ovalformigt"
     ],
     "👶": [
-        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137836&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137836&viewType=detailView"
     ],
     "👷": [
         "https://stockholmskallan.stockholm.se/post/23965"
@@ -2023,6 +2059,9 @@
     ],
     "👾": [],
     "👿": [],
+    "🥋": [
+        "https://digitaltmuseum.se/021026487251/datorspel"
+    ],
     "💀": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23416&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=83225&viewType=detailView",
@@ -2378,23 +2417,43 @@
     "🕥": [],
     "🕦": [],
     "🕧": [],
-    "🕯": [],
+    "🕯": [
+        "https://digitaltmuseum.se/021026545167/vaxljus"
+    ],
     "🕰": [],
-    "🕳": [],
+    "🕳": [
+        "https://digitaltmuseum.se/021016677459/foto-en-restaurering-av-en-kyrka-ett-hal-i-marken-med-en-brada-vid-sida"
+    ],
     "🕴": [],
     "🕵": [],
     "🕶": [],
     "🕷": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=77458&viewType=detailView"
     ],
-    "🕸": [],
-    "🕹": [],
-    "🕺": [],
-    "🖇": [],
-    "🖊": [],
-    "🖋": [],
-    "🖌": [],
-    "🖍": [],
+    "🕸": [
+        "https://digitaltmuseum.se/021017005863/hmm40044"
+    ],
+    "🕹": [
+        "https://digitaltmuseum.se/011023824979/kontrollspak"
+    ],
+    "🕺": [
+        "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=26647&viewType=detailView"
+    ],
+    "🖇": [
+        "https://digitaltmuseum.se/021026355281/gem"
+    ],
+    "🖊": [
+        "https://digitaltmuseum.se/021026335129/reklamartikel"
+    ],
+    "🖋": [
+        "https://digitaltmuseum.se/021026354851/reklamskylt"
+    ],
+    "🖌": [
+        "https://digitaltmuseum.se/011024403764/pensel-till-9-mm-kulsprutepistol-uzi"
+    ],
+    "🖍": [
+        "https://digitaltmuseum.se/011024276699/markkrita"
+    ],
     "🖐": [
         "https://digitaltmuseum.se/021016022773/mangafestival-uppsala-2011"
     ],
@@ -2406,23 +2465,46 @@
     "🖥": [
         "https://digitaltmuseum.se/021026305312/dator"
     ],
-    "🖨": [],
-    "🖱": [],
-    "🖲": [],
+    "🖨": [
+        "https://digitaltmuseum.se/021025874277/skrivare",
+        "https://digitaltmuseum.se/021025806565/skrivare"
+    ],
+    "🖱": [
+        "https://digitaltmuseum.se/021025590772/datamus"
+    ],
+    "🖲": [
+        "https://digitaltmuseum.se/021026360860/styrkula"
+    ],
     "🖼": [
         "https://commons.wikimedia.org/wiki/Category:Images_from_the_Nationalmuseum_Stockholm"
     ],
-    "🗂": [],
-    "🗃": [],
-    "🗄": [],
-    "🗑": [],
-    "🗒": [],
-    "🗓": [],
-    "🗜": [],
+    "🗂": [
+        "https://digitaltmuseum.se/021016744314/kortsystem-stadsingenjor-g-sjoberg"
+    ],
+    "🗃": [
+        "https://digitaltmuseum.se/021016744314/kortsystem-stadsingenjor-g-sjoberg"
+    ],
+    "🗄": [
+        "https://digitaltmuseum.se/011024637465/dokumentskap"
+    ],
+    "🗑": [
+        "https://digitaltmuseum.se/011024815242/papperskorg"
+    ],
+    "🗒": [
+        "https://digitaltmuseum.se/021016547692/tv-levis-antecknar-pa-uppdrag-av-hylands-horna"
+    ],
+    "🗓": [
+        "https://digitaltmuseum.se/021016547692/tv-levis-antecknar-pa-uppdrag-av-hylands-horna"
+    ],
+    "🗜": [
+        "https://digitaltmuseum.se/011024804527/skruvtving"
+    ],
     "🗝": [
         "http://collections.smvk.se/carlotta-mhm/web/object/3922020"
     ],
-    "🗞": [],
+    "🗞": [
+        "https://digitaltmuseum.se/021015770421/fo229080"
+    ],
     "🗡": [
         "https://stockholmskallan.stockholm.se/post/30271",
         "https://stockholmskallan.stockholm.se/post/31092"
@@ -2430,16 +2512,28 @@
     "🗣": [],
     "🗨": [],
     "🗯": [],
-    "🗳": [],
+    "🗳": [
+        "https://digitaltmuseum.se/021017314077/en-sallskapsafton-med-foreningen-kvinnans-politiska-rostratt-fkpr-i-hotell"
+    ],
     "🗺": [
         "https://digitaltmuseum.se/011024826802/karta",
         "https://digitaltmuseum.se/021025732397/karta"
     ],
-    "🗻": [],
-    "🗼": [],
-    "🗽": [],
-    "🗾": [],
-    "🗿": [],
+    "🗻": [
+        "http://collections.smvk.se/carlotta-om/web/object/115290"
+    ],
+    "🗼": [
+        "https://digitaltmuseum.se/021016204029/brev-med-hatoffs-fran-kapten-miltopeus-ar-1772-paskon-stilla-havet-chiles"
+    ],
+    "🗽": [
+        "https://digitaltmuseum.se/021016935577/ostgoten-pa-storgatan-prydd-med-frihetsgudinnan-grundaren-av-tidningen"
+    ],
+    "🗾": [
+        "https://digitaltmuseum.se/011024627509/karta"
+    ],
+    "🗿": [
+        "http://collections.smvk.se/carlotta-vkm/web/object/1295455"
+    ],
     "😀": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=122066&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18491&viewType=detailView",
@@ -2473,7 +2567,7 @@
         "https://digitaltmuseum.se/021046508479/konstnarens-moder"
     ],
     "😉": [
-        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=21152&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=21152&viewType=detailView"
     ],
     "😊": [
         "https://digitaltmuseum.se/011023822742/troll"
@@ -2487,7 +2581,7 @@
         "https://stockholmskallan.stockholm.se/post/15226"
     ],
     "😏": [
-        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177418&viewType=detailView",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177418&viewType=detailView",
         "https://digitaltmuseum.se/021046508738/kung-frederik-v-av-danmark"
     ],
     "😐": [
@@ -2808,7 +2902,7 @@
     "🚺": [],
     "🚻": [],
     "🚼": [
-        "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137836&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137836&viewType=detailView"
     ],
     "🚽": [
         "https://digitaltmuseum.se/011024612473/stol"
@@ -2863,7 +2957,9 @@
         "https://digitaltmuseum.se/021015802667/flygplan-under-landning-pa-landsvag",
         "https://digitaltmuseum.se/021016522163/linjeflyg-in-i-jetaldern-fokker-f-28-forkortar-restiden-med-nara-halften"
     ],
-    "🛰": [],
+    "🛰": [
+        "https://digitaltmuseum.se/021026357889/satellit-modell"
+    ],
     "🛳": [],
     "🛴": [],
     "🤐": [],
@@ -3058,6 +3154,7 @@
         "https://digitaltmuseum.se/011025174279/skolplansch-havsorn"
     ],
     "🦆": [
-        "https://digitaltmuseum.se/011015355848/gunnar-bengt-ola-och-kerstin-titta-pa-ankorna-i-draghagen"
+        "https://digitaltmuseum.se/011015355848/gunnar-bengt-ola-och-kerstin-titta-pa-ankorna-i-draghagen",
+        "https://digitaltmuseum.se/021016323210/reklamaffisch"
     ]
 }
