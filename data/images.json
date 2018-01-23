@@ -1988,13 +1988,14 @@
         "http://collections.smvk.se/carlotta-om/web/object/201588"
     ],
     "👳": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177816&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177816&viewType=detailView", 
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=15169&viewType=detailView"
     ],
     "👴": [
         "https://digitaltmuseum.se/021016880113/otto-malmborg-juni-1917"
     ],
     "👵": [
-        "https://digitaltmuseum.se/011013849545/eldslagning-bullermor-stina-persdotter-slar-gnistor-med-ett-ovalformigt"
+        "https://digitaltmuseum.se/011013849545/eldslagning-bullermor-stina-persdotter-slar-gnistor-med-ett-ovalformigt", "collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=65676&viewType=detailView"
     ],
     "👶": [
         "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137836&viewType=detailView"
@@ -2021,15 +2022,16 @@
     "👽": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22284&viewType=detailView"
     ],
-    "👾": [],
-    "👿": [],
+    "👾": ["http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=15897&viewType=detailView"],
+    "👿": ["http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=95194&viewType=detailView",
+          "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17492&viewType=detailView"],
     "💀": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23416&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=83225&viewType=detailView",
         "https://stockholmskallan.stockholm.se/post/9873"
     ],
     "💁": [],
-    "💂": [],
+    "💂": ["http:collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18406&viewType=detailView"],
     "💃": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=148038&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=24322&viewType=detailView",
@@ -2478,8 +2480,8 @@
     "😊": [
         "https://digitaltmuseum.se/011023822742/troll"
     ],
-    "😋": [],
-    "😌": [],
+    "😋": ["http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=85869&viewType=detailView"],
+    "😌": ["http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17071&viewType=detailView"],
     "😍": [
         "https://digitaltmuseum.se/011014634571/ett-par-som-kramar-och-kysser-varandra-troligen-en-teaterscen"
     ],
@@ -2495,10 +2497,14 @@
     ],
     "😑": [
         "https://digitaltmuseum.se/021046508508/fru-hanna-marcus"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18235&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19552&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22241&viewType=detailView"
     ],
     "😒": [
         "https://digitaltmuseum.se/011023659012/dockhuvud",
-        "https://digitaltmuseum.se/011023346340/tavla"
+        "https://digitaltmuseum.se/011023346340/tavla",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23885&viewType=detailView"
     ],
     "😓": [],
     "😔": [
@@ -2551,7 +2557,7 @@
     "😢": [
         "https://digitaltmuseum.se/011013981251/barnportratt-gratande-pojke-per-arne-mattsson-uppsala-1966"
     ],
-    "😣": [],
+    "😣": ["http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=183640&viewType=detailView"],
     "😤": [],
     "😥": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17323&viewType=detailView",
@@ -2622,6 +2628,7 @@
     "🙃": [],
     "🙄": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19076&viewType=detailView",
+        "http://emp-web-84.zetcom.ch/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17169&viewType=detailView"
         "https://digitaltmuseum.se/021046508767/bacchus-och-ariadne",
         "https://digitaltmuseum.se/021046508770/greve-carl-gustaf-tessin"
     ],
@@ -2805,7 +2812,7 @@
     "🚷": [],
     "🚸": [],
     "🚹": [],
-    "🚺": [],
+    "🚺": ["http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17785&viewType=detailView"],
     "🚻": [],
     "🚼": [
         "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137836&viewType=detailView"
@@ -2821,7 +2828,9 @@
     ],
     "🛀": [
         "https://digitaltmuseum.se/021017101457/emaljering-av-badkar",
-        "https://digitaltmuseum.se/011023694423/badkar"
+        "https://digitaltmuseum.se/011023694423/badkar",
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=26832&viewType=detailView"
+        
     ],
     "🛁": [
         "https://digitaltmuseum.se/011023694423/badkar"
@@ -2868,7 +2877,7 @@
     "🛴": [],
     "🤐": [],
     "🤑": [],
-    "🤒": ["http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=150963&viewType=detailView"],
+    "🤒": [],
     "🤓": [
         "https://digitaltmuseum.se/021017294217/inkoja-junior-och-scoutlager-pa-fagernas-sommaren-1958-det-var-pa-sin-tid"
     ],
@@ -2961,7 +2970,8 @@
         "https://digitaltmuseum.se/021026381963/frimarke"
     ],
     "🥒": [],
-    "🥓": [],
+    "🥓": ["http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23927&viewType=detailView", 
+          "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17802&viewType=detailView"],
     "🥔": [
         "http://collections.smvk.se/carlotta-vkm/web/object/56739",
         "https://digitaltmuseum.se/011023835527/potatis",
