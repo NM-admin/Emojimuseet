@@ -193,7 +193,8 @@
     "☠": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23416&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=83225&viewType=detailView",
-        "https://stockholmskallan.stockholm.se/post/9873"
+        "https://stockholmskallan.stockholm.se/post/9873",
+        "https://digitaltmuseum.se/011023834146/begravningskaramell"
     ],
     "☢": [
         "https://digitaltmuseum.se/011024821075/dosimeterladdare"
@@ -2289,41 +2290,95 @@
         "https://digitaltmuseum.se/011023373890/sedel"
     ],
     "💹": [],
-    "💺": [],
-    "💻": [],
-    "💼": [],
-    "💽": [],
-    "💾": [],
-    "💿": [],
-    "📀": [],
-    "📁": [],
-    "📂": [],
+    "💺": [
+        "http://sparvagsmuseet.sl.se/databas/leyland-tiger-118816/"
+    ],
+    "💻": [
+        "https://digitaltmuseum.se/021026360855/dator-barbar"
+    ],
+    "💼": [
+        "https://digitaltmuseum.se/011024436518/postvaska"
+    ],
+    "💽": [
+        "https://digitaltmuseum.se/021017129234/zip-diskar-med-fodral"
+    ],
+    "💾": [
+        "https://digitaltmuseum.se/021026361829/disketter"
+    ],
+    "💿": [
+        "https://digitaltmuseum.se/011025191436/cd-skiva",
+        "https://digitaltmuseum.se/021026361783/datorspel"
+    ],
+    "📀": [
+        "https://digitaltmuseum.se/021026361276/dvd-ram-enhet"
+    ],
+    "📁": [
+        "https://digitaltmuseum.se/011024821119/mapp"
+    ],
+    "📂": [
+        "https://digitaltmuseum.se/011024821119/mapp"
+    ],
     "📃": [],
     "📄": [],
-    "📅": [],
-    "📆": [],
+    "📅": [
+        "https://digitaltmuseum.se/011024614363/kalender-fick"
+    ],
+    "📆": [
+        "https://digitaltmuseum.se/011024614363/kalender-fick"
+    ],
     "📇": [],
-    "📈": [],
-    "📉": [],
+    "📈": [
+        "https://digitaltmuseum.se/021016463976/man-pa-borsen-granskar-noteringar-och-beraknar-kundernas-vinster-eller"
+    ],
+    "📉": [
+        "https://digitaltmuseum.se/021016463976/man-pa-borsen-granskar-noteringar-och-beraknar-kundernas-vinster-eller"
+    ],
     "📊": [],
     "📋": [],
-    "📌": [],
-    "📍": [],
-    "📎": [],
-    "📏": [],
-    "📐": [],
+    "📌": [
+        "https://digitaltmuseum.se/011023027812/knappnal"
+    ],
+    "📍": [
+        "https://digitaltmuseum.se/021025961903/knappnal",
+        "https://digitaltmuseum.se/011023027812/knappnal"
+    ],
+    "📎": [
+        "https://digitaltmuseum.se/021026355281/gem"
+    ],
+    "📏": [
+        "https://digitaltmuseum.se/021026686026/linjal"
+    ],
+    "📐": [
+        "https://digitaltmuseum.se/011023669755/vinkelmatt"
+    ],
     "📑": [],
-    "📒": [],
-    "📓": [],
-    "📔": [],
-    "📕": [],
+    "📒": [
+        "https://digitaltmuseum.se/011023822818/golvprov"
+    ],
+    "📓": [
+        "https://digitaltmuseum.se/011023776768/svartkonstbok"
+    ],
+    "📔": [
+        "https://digitaltmuseum.se/011023776768/svartkonstbok"
+    ],
+    "📕": [
+        "https://digitaltmuseum.se/011023776768/svartkonstbok"
+    ],
     "📖": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=73599&viewType=detailView"
     ],
-    "📗": [],
-    "📘": [],
-    "📙": [],
-    "📚": [],
+    "📗": [
+        "https://digitaltmuseum.se/011025175768/bok"
+    ],
+    "📘": [
+        "https://digitaltmuseum.se/011023817902/tapetprovbok"
+    ],
+    "📙": [
+        "https://digitaltmuseum.se/011023831648/pendelbok"
+    ],
+    "📚": [
+        "https://stockholmskallan.stockholm.se/post/31403"
+    ],
     "📛": [],
     "📜": [],
     "📝": [],
