@@ -482,9 +482,18 @@
         "https://digitaltmuseum.se/011024439415/fana",
         "https://digitaltmuseum.se/011024606000/spel"
     ],
-    "➕": [],
-    "➖": [],
-    "➗": [],
+    "➕": [
+        "https://digitaltmuseum.se/021026357476/raknedosa",
+        "https://digitaltmuseum.se/021026355688/raknedosa"
+    ],
+    "➖": [
+        "https://digitaltmuseum.se/021026357476/raknedosa",
+        "https://digitaltmuseum.se/021026355688/raknedosa"
+    ],
+    "➗": [
+        "https://digitaltmuseum.se/021026357476/raknedosa",
+        "https://digitaltmuseum.se/021026355688/raknedosa"
+    ],
     "➡️": [],
     "➰": [],
     "➿": [],
