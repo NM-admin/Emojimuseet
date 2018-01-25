@@ -1382,11 +1382,16 @@
     ],
     "🏋️": [
         "https://digitaltmuseum.se/011014314562/enligt-notering-tyngdlyftare-23-5-57",
-        "https://digitaltmuseum.se/021016186014/kraftsport-sm-14-december-1976"
+        "https://digitaltmuseum.se/021016186014/kraftsport-sm-14-december-1976",
+        "https://digitaltmuseum.se/021016402579/armstrackare",
+        "https://digitaltmuseum.se/021016402558/armfallbojning"
     ],
     "🏋️‍♂️": [
         "https://digitaltmuseum.se/011014314562/enligt-notering-tyngdlyftare-23-5-57",
         "https://digitaltmuseum.se/021016186014/kraftsport-sm-14-december-1976"
+    ],
+    "🏋️‍♀️": [
+        "https://digitaltmuseum.se/021016402558/armfallbojning"
     ],
     "🏌": [
         "https://digitaltmuseum.se/011014628182/pojkar-med-golfklubbor-och-golfbag-i-skottsund"
@@ -1549,7 +1554,8 @@
     "🐇": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17800&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17906&viewType=detailView",
-        "https://digitaltmuseum.se/021016191654/hare-i-sko-22-juni-1966"
+        "https://digitaltmuseum.se/021016191654/hare-i-sko-22-juni-1966",
+        "http://collections.smvk.se/carlotta-om/web/object/107799"
     ],
     "🐈": [
         "https://digitaltmuseum.se/011014491337/notering-pa-kortet-hjartlig-gratulation-pa-hilmadagen-af-kristin-olsso",
@@ -1585,7 +1591,8 @@
         "https://digitaltmuseum.se/021015951893/eobania-vermiculata-o-f-muller"
     ],
     "🐍": [
-        "https://digitaltmuseum.se/021015942818/skallerorm"
+        "https://digitaltmuseum.se/021015942818/skallerorm",
+        "http://collections.smvk.se/carlotta-mhm/web/object/3909914"
     ],
     "🐎": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=66771&viewType=detailView",
@@ -1670,7 +1677,8 @@
     ],
     "🐢": [
         "https://digitaltmuseum.se/011025176249/skolplansch",
-        "https://digitaltmuseum.se/021015950382/skoldpadda"
+        "https://digitaltmuseum.se/021015950382/skoldpadda",
+        "http://collections.smvk.se/carlotta-om/web/object/103516"
     ],
     "🐣": [
         "https://digitaltmuseum.se/011014491618/notering-pa-kortet-glad-pask"
@@ -1743,7 +1751,8 @@
     "🐲": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=121244&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=174257&viewType=detailView",
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=181587&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=181587&viewType=detailView",
+        "http://collections.smvk.se/carlotta-om/web/object/624720"
     ],
     "🐳": [
         "https://digitaltmuseum.se/021015943803/balaenoptera-musculus-linnaeus",
@@ -2092,11 +2101,17 @@
         "https://digitaltmuseum.se/011015421807/skonhetsvard-en-starkt-sminkad-kvinna-malar-sin-langa-naglar-nordiska-kompanie"
     ],
     "💆": [
-        "https://digitaltmuseum.se/021017292931/samaritkurs-instruktor-sten-ake-lofgren-bollnas"
+        "https://digitaltmuseum.se/021017292931/samaritkurs-instruktor-sten-ake-lofgren-bollnas",
+        "https://digitaltmuseum.se/021016300369/massage-bilden-ingar-i-tva-stora-fotoalbum-efter-direktor-karl-wilhelm",
+        "https://digitaltmuseum.se/021016402569/cirkelbukmassage",
+        "https://digitaltmuseum.se/021016403423/fotmassage",
+        "https://digitaltmuseum.se/021016402540/magknadning"
     ],
     "💆‍♂️": [
         "https://digitaltmuseum.se/021016300369/massage-bilden-ingar-i-tva-stora-fotoalbum-efter-direktor-karl-wilhelm",
-        "https://digitaltmuseum.se/021016402569/cirkelbukmassage"
+        "https://digitaltmuseum.se/021016402569/cirkelbukmassage",
+        "https://digitaltmuseum.se/021016403423/fotmassage",
+        "https://digitaltmuseum.se/021016402540/magknadning"
     ],
     "💇": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19604&viewType=detailView"
@@ -3117,11 +3132,17 @@
         "https://digitaltmuseum.se/011013989054/graddning-av-pannkakor-fackskolan-for-huslig-ekonomi-uppsala-februari-193"
     ],
     "🥨": [],
-    "🦀": [],
-    "🦁": [
-        "http://kmb.raa.se/cocoon/bild/show-image.html?id=16001000538779"
+    "🦀": [
+        "http://collections.smvk.se/carlotta-om/web/object/115409"
     ],
-    "🦂": [],
+    "🦁": [
+        "http://kmb.raa.se/cocoon/bild/show-image.html?id=16001000538779",
+        "http://collections.smvk.se/carlotta-om/web/object/203035"
+    ],
+    "🦂": [
+        "http://collections.smvk.se/carlotta-vkm/web/object/1991403",
+        "http://collections.smvk.se/carlotta-em/web/object/3260291"
+    ],
     "🦃": [],
     "🦄": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=143211&viewType=detailView",
@@ -3129,9 +3150,12 @@
     ],
     "🦇": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=132596&viewType=detailView",
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=38172&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=38172&viewType=detailView",
+        "http://collections.smvk.se/carlotta-vkm/web/object/1316678"
     ],
-    "🦈": [],
+    "🦈": [
+        "http://collections.smvk.se/carlotta-em/web/object/1307900"
+    ],
     "🦉": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=50426&viewType=detailView",
         "http://collections.smvk.se/carlotta-em/web/object/3554176",
@@ -3139,15 +3163,19 @@
     ],
     "🦊": [
         "http://collections.smvk.se/carlotta-em/web/object/1001424",
-        "http://collections.smvk.se/carlotta-em/web/object/1281768"
+        "http://collections.smvk.se/carlotta-em/web/object/1281768",
+        "http://collections.smvk.se/carlotta-em/web/object/1016165"
     ],
     "🦋": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=132641&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177417&viewType=detailView"
     ],
-    "🦍": [],
+    "🦍": [
+        "http://collections.smvk.se/carlotta-em/web/object/3263218"
+    ],
     "🦎": [
-        "https://digitaltmuseum.se/021015945343/odla"
+        "https://digitaltmuseum.se/021015945343/odla",
+        "http://collections.smvk.se/carlotta-om/web/object/107109"
     ],
     "🦏": [
         "http://collections.smvk.se/carlotta-vkm/web/object/44630"
@@ -3160,7 +3188,8 @@
     ],
     "🦓": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=159038&viewType=detailView",
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=47721&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=47721&viewType=detailView",
+        "http://collections.smvk.se/carlotta-vkm/web/object/1960776"
     ],
     "🦕": [],
     "🦖": [
