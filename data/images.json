@@ -294,7 +294,9 @@
         "https://digitaltmuseum.se/011024262738/kortlek",
         "https://digitaltmuseum.se/021026850168/kortlek"
     ],
-    "♨️": [],
+    "♨️": [
+        "https://digitaltmuseum.se/021016315554/skioptikonbild-med-motiv-av-het-underjordisk-kalla-mojligen-i-yellowstone"
+    ],
     "♻️": [
         "https://digitaltmuseum.se/011013838067/lovsta-bilskrot-i-hasselby-stockholm-digitaltmuseum-1948-oldsmobile-convertible"
     ],
@@ -319,14 +321,24 @@
     "⚙": [
         "https://stockholmskallan.stockholm.se/post/20614"
     ],
-    "⚛": [],
+    "⚛": [
+        "https://digitaltmuseum.se/021026305394/karnkraftverk-modell"
+    ],
     "⚜": [
         "https://stockholmskallan.stockholm.se/post/10304"
     ],
-    "⚠️": [],
-    "⚡": [],
-    "⚪️": [],
-    "⚫️": [],
+    "⚠️": [
+        "https://digitaltmuseum.se/011023871681/skylt"
+    ],
+    "⚡": [
+        "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18253&viewType=detailView"
+    ],
+    "⚪️": [
+        "https://digitaltmuseum.se/011023831163/assiett"
+    ],
+    "⚫️": [
+        "https://digitaltmuseum.se/021026698486/fat"
+    ],
     "⚰": [
         "https://stockholmskallan.stockholm.se/post/27372"
     ],
@@ -3225,7 +3237,9 @@
     "🦏": [
         "http://collections.smvk.se/carlotta-vkm/web/object/44630"
     ],
-    "🦑": [],
+    "🦑": [
+        "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=3997&viewType=detailView"
+    ],
     "🦒": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=107286&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112275&viewType=detailView",
@@ -3259,8 +3273,12 @@
     "🧙‍♀️": [
         "https://digitaltmuseum.se/021016811205/paskkarringar-ar-1964"
     ],
-    "🧜‍♀️": [],
-    "🧞": [],
+    "🧜‍♀️": [
+        "https://digitaltmuseum.se/011023485152/kakform"
+    ],
+    "🧞": [
+        "http://emp-web-84.zetcom.ch/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=24035&viewType=detailView"
+    ],
     "🧛": [
         "https://digitaltmuseum.se/021026455872/docka"
     ],
