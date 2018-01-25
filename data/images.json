@@ -344,21 +344,35 @@
         "https://digitaltmuseum.se/021016731094/flicka-och-snogubbe",
         "https://digitaltmuseum.se/021017310422/flickor-och-snogubbar-osthammar-uppland"
     ],
-    "⛅️": [],
-    "⛈": [],
-    "⛎": [],
-    "⛏": [],
-    "⛑": [],
+    "⛅️": [
+        "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=70291&viewType=detailView"
+    ],
+    "⛈": [
+        "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=46550&viewType=detailView"
+    ],
+    "⛎": [
+        "https://digitaltmuseum.se/011015336845/bostadshus-ormbararen-boras"
+    ],
+    "⛏": [
+        "https://digitaltmuseum.se/021015988803/plantering-uppland-1962"
+    ],
+    "⛑": [
+        "https://digitaltmuseum.se/021016115875/trollhattan-ossians-stege"
+    ],
     "⛓": [
         "https://stockholmskallan.stockholm.se/post/26941"
     ],
-    "⛔️": [],
+    "⛔️": [
+        "https://digitaltmuseum.se/021017169990/skara-kvarteret-odin-tomt-nr-2"
+    ],
     "⛩": [],
     "⛪️": [],
     "⛰": [
         "https://digitaltmuseum.se/011013077742/de-forsta-turisterna-pa-toppen-av-storsylen-fjallandskap"
     ],
-    "⛱": [],
+    "⛱": [
+        "https://digitaltmuseum.se/011014472680/umfa54478-0303"
+    ],
     "⛲️": [
         "https://stockholmskallan.stockholm.se/post/17888",
         "https://stockholmskallan.stockholm.se/post/27535",
@@ -476,7 +490,9 @@
     "➿": [],
     "⤴️": [],
     "⤵️": [],
-    "⬅️": [],
+    "⬅️": [
+        "https://digitaltmuseum.se/021016371664/vagskylt-med-mycket-information-pa-samma-stolpe-i-bakgrunden-wickholms"
+    ],
     "⬆️": [],
     "⬇️": [],
     "⬛️": [],
@@ -2092,7 +2108,8 @@
     ],
     "💁": [],
     "💂": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18406&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18406&viewType=detailView",
+        "https://digitaltmuseum.se/021016954220/vaktavlosning"
     ],
     "💃": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=148038&viewType=detailView",
@@ -2631,7 +2648,6 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22241&viewType=detailView"
     ],
     "😒": [
-        "https://digitaltmuseum.se/011023659012/dockhuvud",
         "https://digitaltmuseum.se/011023346340/tavla",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23885&viewType=detailView"
     ],
@@ -3030,7 +3046,10 @@
     "🤗": [
         "https://digitaltmuseum.se/011014491120/postkort-med-tecknat-motiv-forestallande-ett-par-som-sitter-pa-en-soffa"
     ],
-    "🤘": [],
+    "🤘": [
+        "https://digitaltmuseum.se/011013971450/kalkmalning-i-soderby-karls-kyrka-uppland-2003",
+        "https://digitaltmuseum.se/021027337709/snapsglas"
+    ],
     "🤙": [],
     "🤠": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=151326&viewType=detailView"
